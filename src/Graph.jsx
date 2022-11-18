@@ -33,61 +33,28 @@ useEffect(() => {
     d3.csv('./occurrences.csv')
     .then(text  => {
       setLinks(text)
-      console.log(text)
-      
-      fetch('./characters.txt')
-      .then((r) => r.text())
-      .then(text  => {
-        var nds = []
-        var tmp = text.split("\r\n")
-        tmp.forEach(d => nds.push({id: d}))
-        setNodes(nds)
+      d3.csv('./characters.csv')
+      .then(chars  => {
+        setNodes(chars)
       }).catch(error => {
-        console.log("Error reading nodes!" + error)
+        console.log("Error reading nodes")
       });
-
     }).catch(error => {
       console.log("Error reading links")
     });
-
-    // fetch('/characters.txt')
-    //     .then((r) => r.text())
-    //     .then(text  => {
-    //       setNodes(text.split("\r\n"))
-    //     }).catch(error => {
-    //       // Maybe present some error/failure UI to the user here
-    //     });
-
 
 
 }, []);
 
 useEffect(() => {
   genGraph()
-}, [nodes,links])
+}, [nodes])
 
-// useEffect(() => {
-
-
-//     d3.selectAll(".nodes").selectAll("circle")
-//     .attr("r", function(d) {
-//       if(props.sameScale) {
-//         let max = d3.max(props.current, d => parseFloat(d.nadac_per_unit));
-//         return ((d.nadac_per_unit / max) * MAX_RADIUS) + MIN_RADIUS;
-//       } else {
-
-//         let otcmax = d3.max(props.current, d => d.otc === "Y" && parseFloat(d.nadac_per_unit));
-//         let notcmax = d3.max(props.current, d => d.otc === "N" && parseFloat(d.nadac_per_unit));
-
-//         return MIN_RADIUS + (MAX_RADIUS*(d.otc === "Y" ? (parseFloat(d.nadac_per_unit)/otcmax) : d.nadac_per_unit/notcmax));
-
-//       }
-//     });
-
-// }, [props.sameScale]);
 
     async function genGraph() {
 
+
+    if(nodes === [] || links === {}) return;
 
     console.log(nodes)
     console.log(links)
@@ -123,18 +90,9 @@ useEffect(() => {
     
     svg.call(zoom);
 
-  // var forceX = d3.forceX((d,idx) => {
 
-  //   let otcmax = d3.max(props.current, d => d.otc === "Y" && parseFloat(d.nadac_per_unit));
-  //   let notcmax = d3.max(props.current, d => d.otc === "N" && parseFloat(d.nadac_per_unit));
-    
-  //   return d.otc === "N" ? width-((parseFloat(d.nadac_per_unit)/notcmax)*width/2) : 
-  //     (parseFloat(d.nadac_per_unit)/otcmax)*width/2;
-
-  // }).strength(0.6);
-
-  var forceX = d3.forceX().strength(0.5)
-  var forceY = d3.forceY().strength(0.5);
+    var forceX = d3.forceX().strength(0.5)
+    var forceY = d3.forceY().strength(0.5);
 
 
     const simulation = d3.forceSimulation()
@@ -142,8 +100,7 @@ useEffect(() => {
     .force("repel", d3.forceManyBody().strength(-30))
     .force("center", d3.forceCenter(width / 2, height / 2))
     .force("collision", d3.forceCollide(4))
-    .force(
-      "link", d3.forceLink().id(d => d).distance(40))
+    .force("link", d3.forceLink().id(d => d.id))
     .force("x", forceX)
     .force("y", forceY);
 
@@ -179,26 +136,27 @@ useEffect(() => {
     .data(nodes)
     .enter().append("g");
 
+
+    var link = g.append("g")
+    .attr("class", "links")
+    .selectAll("line")
+    .data(links)
+    .join("line")
+      .attr("stroke", "rgba(211,211,211, 1)")
+      .attr("width", 0.8)
+      //.attr("stroke-opacity", d => (d.width/props.maxWidth)+props.minOpacity)
+      //.attr("stroke-width", function(d) { return (d.width+(0.2)); });
+
+
     node.append("circle")
-    .attr("r", 10)
+    .attr("r", 8)
     .attr("fill", d => ("rgba(70,130,180,0.8)")) // rgba is steelblue at 80% opacity
-    .on("click", (d,e) => {
-      props.setLabel(e);
-    })
     .call(d3.drag()
       .on("start", dragstarted)
       .on("drag", dragged)
       .on("end", dragended));
 
-    var link = g.append("g")
-      .attr("class", "links")
-    .selectAll("line")
-    .data(links)
-    .join("line")
-      .attr("stroke", "rgba(211,211,211, 1)")
-      .attr("width", 1)
-      //.attr("stroke-opacity", d => (d.width/props.maxWidth)+props.minOpacity)
-      //.attr("stroke-width", function(d) { return (d.width+(0.2)); });
+
 
 
     simulation
@@ -208,10 +166,8 @@ useEffect(() => {
     simulation.force("link")
     .links(links)
 
-
-
     node.append("text")
-    .text((d) => "Hello")
+    .text((d) => d.id)
         .attr('x', 2)
         .style("cursor", "pointer")
         .style("font-weight", "bold")
@@ -253,12 +209,9 @@ useEffect(() => {
 
       }
 
-      // Re-compute y force on graph
-      simulation.force("y").initialize(nodes);
-
       // Restart simulation
       simulation
-      .alpha(0.3)
+      .alpha(0.2)
       .alphaTarget(0)
       .restart();
   }
