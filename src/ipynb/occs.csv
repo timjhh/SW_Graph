@@ -1,0 +1,2462 @@
+source,target,total
+Qui-Gon Jinn,Nute Gunray,2
+Qui-Gon Jinn,Republic Captain,4
+Rebel Pilot,Qui-Gon Jinn,3
+Nute Gunray,Republic Captain,1
+Rebel Pilot,Nute Gunray,1
+Rebel Pilot,Republic Captain,3
+Yoda,Qui-Gon Jinn,6
+Yoda,Obi-Wan Kenobi,39
+Qui-Gon Jinn,Obi-Wan Kenobi,44
+Nute Gunray,Dofine,1
+Nute Gunray,Battle Droid,5
+Rune,Nute Gunray,16
+Qui-Gon Jinn,Battle Droid,16
+Obi-Wan Kenobi,Battle Droid,50
+Rune,Qui-Gon Jinn,1
+Rune,Obi-Wan Kenobi,1
+Obi-Wan Kenobi,Nute Gunray,6
+Rune,Tey How,2
+Nute Gunray,Tey How,2
+Qui-Gon Jinn,Chancellor Valorum,3
+Obi-Wan Kenobi,Chancellor Valorum,3
+Battle Droid,Chancellor Valorum,2
+Sache,Tey How,1
+Sache,Queen,5
+Sache,Rune,2
+Sache,Padme,5
+Sache,Nute Gunray,2
+Sache,Eirtae,3
+Sache,Yane,4
+Sache,Rabe,4
+Queen,Tey How,1
+Padme,Tey How,1
+Eirtae,Tey How,1
+Yane,Tey How,1
+Rabe,Tey How,1
+Queen,Rune,6
+Queen,Padme,31
+Queen,Nute Gunray,7
+Queen,Eirtae,16
+Queen,Yane,4
+Queen,Rabe,13
+Rune,Padme,3
+Rune,Eirtae,1
+Rune,Yane,2
+Rune,Rabe,2
+Padme,Nute Gunray,4
+Padme,Eirtae,14
+Padme,Yane,4
+Padme,Rabe,13
+Nute Gunray,Eirtae,1
+Nute Gunray,Yane,2
+Nute Gunray,Rabe,2
+Eirtae,Yane,2
+Eirtae,Rabe,10
+Yane,Rabe,4
+Sache,Sio Bibble,4
+Sache,Captain Panaka,4
+Sache,Palpatine,1
+Queen,Sio Bibble,8
+Captain Panaka,Sio Bibble,6
+Padme,Sio Bibble,7
+Palpatine,Sio Bibble,4
+Eirtae,Sio Bibble,4
+Queen,Captain Panaka,22
+Queen,Palpatine,21
+Captain Panaka,Padme,16
+Captain Panaka,Palpatine,11
+Captain Panaka,Eirtae,15
+Padme,Palpatine,17
+Palpatine,Eirtae,7
+Qui-Gon Jinn,Jar Jar Binks,39
+Obi-Wan Kenobi,Jar Jar Binks,28
+Captain Tarpals,Bespin Guards,1
+Captain Tarpals,Gungan Warrior,1
+Captain Tarpals,Jar Jar Binks,2
+Gungan Warrior,Bespin Guards,3
+Jar Jar Binks,Bespin Guards,12
+Gungan Warrior,Jar Jar Binks,9
+Count Dooku,Qui-Gon Jinn,1
+Count Dooku,Jar Jar Binks,4
+Count Dooku,Boss Nass,1
+Count Dooku,Obi-Wan Kenobi,20
+Boss Nass,Qui-Gon Jinn,4
+Boss Nass,Jar Jar Binks,4
+Boss Nass,Obi-Wan Kenobi,5
+Rune,Palpatine,5
+Nute Gunray,Palpatine,10
+Battle Droid,Jar Jar Binks,12
+Sache,Bespin Guards,3
+Sache,Battle Droid,3
+Sache,Padme Amidala,2
+Queen,Bespin Guards,14
+Battle Droid,Bespin Guards,7
+Rune,Bespin Guards,3
+Padme,Bespin Guards,12
+Sio Bibble,Bespin Guards,6
+Captain Panaka,Bespin Guards,11
+Nute Gunray,Bespin Guards,7
+Padme Amidala,Bespin Guards,16
+Yane,Bespin Guards,3
+Bespin Guards,Rabe,8
+Queen,Battle Droid,10
+Queen,Padme Amidala,20
+Rune,Battle Droid,3
+Padme,Battle Droid,6
+Battle Droid,Sio Bibble,4
+Captain Panaka,Battle Droid,13
+Padme Amidala,Battle Droid,27
+Battle Droid,Yane,3
+Battle Droid,Rabe,6
+Rune,Sio Bibble,2
+Rune,Captain Panaka,2
+Rune,Padme Amidala,2
+Padme Amidala,Padme,19
+Nute Gunray,Sio Bibble,3
+Padme Amidala,Sio Bibble,6
+Yane,Sio Bibble,3
+Sio Bibble,Rabe,4
+Captain Panaka,Nute Gunray,3
+Captain Panaka,Padme Amidala,20
+Captain Panaka,Yane,3
+Captain Panaka,Rabe,11
+Padme Amidala,Nute Gunray,7
+Padme Amidala,Yane,2
+Padme Amidala,Rabe,8
+Sache,Qui-Gon Jinn,2
+Sache,Obi-Wan Kenobi,2
+Sache,Jar Jar Binks,2
+Qui-Gon Jinn,Bespin Guards,8
+Captain Panaka,Qui-Gon Jinn,17
+Queen,Qui-Gon Jinn,13
+Qui-Gon Jinn,Sio Bibble,4
+Padme Amidala,Qui-Gon Jinn,32
+Padme,Qui-Gon Jinn,9
+Qui-Gon Jinn,Yane,2
+Qui-Gon Jinn,Rabe,7
+Obi-Wan Kenobi,Bespin Guards,14
+Captain Panaka,Obi-Wan Kenobi,19
+Captain Panaka,Jar Jar Binks,14
+Queen,Obi-Wan Kenobi,21
+Queen,Jar Jar Binks,18
+Obi-Wan Kenobi,Sio Bibble,7
+Padme Amidala,Obi-Wan Kenobi,43
+Padme,Obi-Wan Kenobi,18
+Obi-Wan Kenobi,Yane,2
+Obi-Wan Kenobi,Rabe,8
+Jar Jar Binks,Sio Bibble,5
+Padme Amidala,Jar Jar Binks,34
+Padme,Jar Jar Binks,17
+Yane,Jar Jar Binks,2
+Jar Jar Binks,Rabe,6
+Qui-Gon Jinn,Princess Leia,3
+Qui-Gon Jinn,Queen Jamillia,3
+Qui-Gon Jinn,Palpatine,9
+Qui-Gon Jinn,Eirtae,10
+Captain Panaka,Princess Leia,4
+Queen,Princess Leia,6
+Obi-Wan Kenobi,Princess Leia,16
+Battle Droid,Princess Leia,2
+Queen Jamillia,Princess Leia,9
+Jar Jar Binks,Princess Leia,4
+Sio Bibble,Princess Leia,3
+Padme Amidala,Princess Leia,6
+Padme,Princess Leia,5
+Palpatine,Princess Leia,6
+Eirtae,Princess Leia,5
+Captain Panaka,Queen Jamillia,4
+Queen,Queen Jamillia,6
+Obi-Wan Kenobi,Queen Jamillia,6
+Obi-Wan Kenobi,Palpatine,42
+Obi-Wan Kenobi,Eirtae,11
+Battle Droid,Queen Jamillia,1
+Battle Droid,Palpatine,12
+Battle Droid,Eirtae,7
+Jar Jar Binks,Queen Jamillia,4
+Sio Bibble,Queen Jamillia,3
+Padme Amidala,Queen Jamillia,5
+Padme,Queen Jamillia,5
+Palpatine,Queen Jamillia,5
+Eirtae,Queen Jamillia,5
+Palpatine,Jar Jar Binks,14
+Eirtae,Jar Jar Binks,10
+Padme Amidala,Palpatine,19
+Padme Amidala,Eirtae,11
+Sache,Republic Captain,1
+Republic Captain,Bespin Guards,3
+Eirtae,Bespin Guards,7
+Queen,Republic Captain,3
+Obi-Wan Kenobi,Republic Captain,6
+Battle Droid,Republic Captain,4
+Republic Captain,Sio Bibble,1
+Republic Captain,Jar Jar Binks,3
+Captain Panaka,Republic Captain,4
+Padme,Republic Captain,2
+Republic Captain,Eirtae,2
+Republic Captain,Yane,1
+Republic Captain,Rabe,2
+Ric Olie,Captain Panaka,5
+Ric Olie,Qui-Gon Jinn,4
+Ric Olie,Rebel Pilot,3
+Captain Panaka,Rebel Pilot,3
+Ric Olie,Battle Droid,3
+Ric Olie,Jar Jar Binks,1
+Ric Olie,Obi-Wan Kenobi,5
+Rune,Darth Maul,5
+Darth Vader,Rune,1
+Darth Vader,Darth Maul,2
+Queen,Darth Maul,3
+Darth Maul,Nute Gunray,5
+Darth Maul,Palpatine,10
+Darth Vader,Queen,2
+Darth Vader,Nute Gunray,4
+Darth Vader,Palpatine,15
+R2-D2,Qui-Gon Jinn,25
+Captain Panaka,R2-D2,7
+R2-D2,Obi-Wan Kenobi,50
+R2-D2,Battle Droid,26
+Queen,R2-D2,9
+R2-D2,Padme Amidala,48
+R2-D2,Padme,6
+R2-D2,Eirtae,7
+R2-D2,Rabe,4
+R2-D2,Jar Jar Binks,26
+Qui-Gon Jinn,Anakin Skywalker,34
+Gardulla,Qui-Gon Jinn,1
+Watto,Qui-Gon Jinn,11
+Qui-Gon Jinn,Luke Skywalker,6
+R2-D2,Anakin Skywalker,60
+Battle Droid,Anakin Skywalker,41
+Gardulla,Anakin Skywalker,1
+Watto,Anakin Skywalker,12
+Anakin Skywalker,Jar Jar Binks,28
+Anakin Skywalker,Luke Skywalker,19
+Padme Amidala,Anakin Skywalker,95
+R2-D2,Gardulla,1
+R2-D2,Watto,6
+R2-D2,Luke Skywalker,40
+Gardulla,Battle Droid,1
+Watto,Battle Droid,4
+Battle Droid,Luke Skywalker,4
+Gardulla,Watto,1
+Gardulla,Jar Jar Binks,1
+Gardulla,Luke Skywalker,1
+Gardulla,Padme Amidala,1
+Watto,Jar Jar Binks,7
+Watto,Luke Skywalker,2
+Padme Amidala,Watto,8
+Jar Jar Binks,Luke Skywalker,5
+Padme Amidala,Luke Skywalker,4
+Jabba the Hutt,Qui-Gon Jinn,3
+Sebulba,Qui-Gon Jinn,6
+Jabba the Hutt,Anakin Skywalker,4
+Sebulba,Anakin Skywalker,9
+Jabba the Hutt,Jar Jar Binks,3
+Sebulba,Jar Jar Binks,5
+Jabba the Hutt,Sebulba,3
+Jabba the Hutt,R2-D2,4
+Jabba the Hutt,Padme Amidala,3
+Sebulba,R2-D2,5
+Sebulba,Padme Amidala,5
+Padme Amidala,Jira,1
+Qui-Gon Jinn,Jira,2
+Anakin Skywalker,Jira,2
+Shmi,Qui-Gon Jinn,14
+Shmi,Anakin Skywalker,19
+Shmi,Jar Jar Binks,11
+Shmi,Luke Skywalker,4
+R2-D2,Shmi,10
+Padme Amidala,Shmi,17
+C-3P0,Shmi,3
+Shmi,C-3PO,3
+Shmi,Battle Droid,3
+C-3P0,Anakin Skywalker,17
+C-3P0,C-3PO,122
+C-3P0,R2-D2,59
+C-3P0,Battle Droid,3
+C-3P0,Padme Amidala,19
+C-3PO,Anakin Skywalker,17
+R2-D2,C-3PO,59
+Battle Droid,C-3PO,3
+Padme Amidala,C-3PO,19
+Rabe,Princess Leia,4
+Queen Jamillia,Rabe,4
+Shmi,Watto,6
+Sebulba,Watto,4
+Shmi,Obi-Wan Kenobi,2
+Obi-Wan Kenobi,Anakin Skywalker,97
+Qui-Gon Jinn,Seek,1
+Qui-Gon Jinn,Wald,2
+Qui-Gon Jinn,Amee,1
+Qui-Gon Jinn,Kitster,8
+Seek,Anakin Skywalker,1
+Anakin Skywalker,Wald,2
+Amee,Anakin Skywalker,1
+Anakin Skywalker,Kitster,8
+R2-D2,Seek,1
+R2-D2,Wald,1
+R2-D2,Amee,1
+R2-D2,Kitster,8
+Seek,Jar Jar Binks,1
+Seek,Wald,1
+Padme Amidala,Seek,1
+Seek,Amee,1
+Seek,Kitster,1
+Wald,Jar Jar Binks,1
+Amee,Jar Jar Binks,1
+Kitster,Jar Jar Binks,7
+Padme Amidala,Wald,1
+Amee,Wald,1
+Kitster,Wald,2
+Padme Amidala,Amee,1
+Padme Amidala,Kitster,7
+Amee,Kitster,1
+Yoda,Anakin Skywalker,18
+Yoda,Luke Skywalker,11
+Obi-Wan Kenobi,Luke Skywalker,41
+Yoda,Shmi,1
+Darth Maul,Battle Droid,5
+Watto,Kitster,4
+C-3P0,Qui-Gon Jinn,1
+Qui-Gon Jinn,C-3PO,1
+Sebulba,Shmi,4
+Sebulba,C-3P0,1
+Sebulba,C-3PO,1
+Sebulba,Kitster,4
+Shmi,Kitster,6
+C-3P0,Watto,1
+C-3P0,Jar Jar Binks,2
+C-3P0,Kitster,2
+Watto,C-3PO,1
+C-3PO,Jar Jar Binks,2
+C-3PO,Kitster,2
+Darth Maul,Obi-Wan Kenobi,6
+Fode/Beed,Anakin Skywalker,6
+Boles Roor,Anakin Skywalker,1
+Anakin Skywalker,Gasgano,2
+Sebulba,Fode/Beed,5
+Boles Roor,Fode/Beed,1
+Fode/Beed,Gasgano,2
+Sebulba,Boles Roor,1
+Sebulba,Gasgano,2
+Boles Roor,Gasgano,1
+Jabba the Hutt,Fode/Beed,1
+Ody Mandrell,Qui-Gon Jinn,2
+Ody Mandrell,Anakin Skywalker,3
+Sebulba,Ody Mandrell,3
+Ody Mandrell,R2-D2,2
+Ody Mandrell,Shmi,2
+Ody Mandrell,Jar Jar Binks,2
+Jabba the Hutt,Ody Mandrell,1
+Ody Mandrell,Padme Amidala,2
+Ody Mandrell,Kitster,2
+Jabba the Hutt,Shmi,3
+Jabba the Hutt,Kitster,2
+Fode/Beed,Jar Jar Binks,4
+Qui-Gon Jinn,Fode/Beed,3
+Fode/Beed,Luke Skywalker,3
+Padme Amidala,Fode/Beed,3
+Shmi,Fode/Beed,3
+Mawhonic,Anakin Skywalker,1
+Anakin Skywalker,Tusken Raider,2
+Mawhonic,Fode/Beed,1
+Fode/Beed,Tusken Raider,1
+Sebulba,Mawhonic,1
+Sebulba,Tusken Raider,1
+Mawhonic,Tusken Raider,1
+Mawhonic,Gasgano,1
+Tusken Raider,Gasgano,1
+Qui-Gon Jinn,Fanta,2
+R2-D2,Fanta,2
+Shmi,Fanta,2
+Fanta,Jar Jar Binks,2
+Jabba the Hutt,Fanta,1
+Padme Amidala,Fanta,2
+Fanta,Kitster,2
+Sebulba,Xelbree,1
+Ody Mandrell,Xelbree,1
+Xelbree,Anakin Skywalker,1
+Qui-Gon Jinn,Ben Quadrinaros,1
+Fanta,Anakin Skywalker,1
+Anakin Skywalker,Ben Quadrinaros,2
+Sebulba,Fanta,1
+Sebulba,Ben Quadrinaros,1
+R2-D2,Fode/Beed,2
+R2-D2,Ben Quadrinaros,13
+Shmi,Ben Quadrinaros,1
+Watto,Fanta,1
+Fode/Beed,Fanta,1
+Fanta,Ben Quadrinaros,1
+Watto,Fode/Beed,2
+Watto,Ben Quadrinaros,1
+Fode/Beed,Ben Quadrinaros,1
+Fode/Beed,Kitster,2
+Ben Quadrinaros,Jar Jar Binks,1
+Padme Amidala,Ben Quadrinaros,1
+Kitster,Ben Quadrinaros,1
+Ody Mandrell,Battle Droid,1
+Terter,Ody Mandrell,1
+Ody Mandrell,Watto,1
+Ody Mandrell,Fode/Beed,1
+Ody Mandrell,Luke Skywalker,1
+Terter,Qui-Gon Jinn,1
+Terter,Anakin Skywalker,1
+Sebulba,Battle Droid,1
+Terter,Sebulba,1
+Sebulba,Luke Skywalker,1
+Terter,R2-D2,1
+Terter,Battle Droid,1
+Battle Droid,Fode/Beed,1
+Battle Droid,Kitster,1
+Terter,Shmi,1
+Terter,Watto,1
+Terter,Fode/Beed,1
+Terter,Jar Jar Binks,1
+Terter,Luke Skywalker,1
+Terter,Padme Amidala,1
+Terter,Kitster,1
+Kitster,Luke Skywalker,1
+Darth Maul,Anakin Skywalker,4
+Qui-Gon Jinn,Sith Probe Droid,3
+Watto,Sith Probe Droid,1
+Battle Droid,Sith Probe Droid,6
+R2-D2,Sith Probe Droid,2
+Obi-Wan Kenobi,Sith Probe Droid,3
+Padme Amidala,Sith Probe Droid,2
+Qui-Gon Jinn,Greedo,1
+Greedo,Anakin Skywalker,1
+Greedo,Wald,1
+Greedo,Kitster,1
+Darth Maul,Qui-Gon Jinn,8
+Darth Maul,Jira,1
+Darth Maul,Sith Probe Droid,1
+Palpatine,Anakin Skywalker,52
+Anakin Skywalker,Sith Probe Droid,1
+Battle Droid,Jira,1
+Palpatine,Jira,1
+Sith Probe Droid,Jira,1
+Palpatine,Sith Probe Droid,1
+Captain Panaka,Anakin Skywalker,12
+Padme Amidala,Republic Captain,3
+Republic Captain,Anakin Skywalker,7
+Ric Olie,Anakin Skywalker,6
+Ric Olie,Padme Amidala,1
+Rebel Pilot,Anakin Skywalker,9
+Rebel Pilot,Obi-Wan Kenobi,8
+Padme Amidala,Rebel Pilot,4
+Ric Olie,Watto,1
+Watto,Obi-Wan Kenobi,1
+Anakin Skywalker,Sio Bibble,4
+R2-D2,Sio Bibble,2
+Anakin Skywalker,Bespin Guards,19
+Anakin Skywalker,Princess Leia,11
+Queen,Anakin Skywalker,16
+Anakin Skywalker,Queen Jamillia,6
+Anakin Skywalker,Chancellor Valorum,2
+Padme,Anakin Skywalker,12
+Eirtae,Anakin Skywalker,9
+Anakin Skywalker,Rabe,6
+Bespin Guards,Princess Leia,5
+Queen Jamillia,Bespin Guards,4
+Chancellor Valorum,Bespin Guards,1
+Palpatine,Bespin Guards,11
+Chancellor Valorum,Princess Leia,1
+Captain Panaka,Chancellor Valorum,3
+Queen,Chancellor Valorum,4
+Chancellor Valorum,Queen Jamillia,1
+Chancellor Valorum,Jar Jar Binks,2
+Padme Amidala,Chancellor Valorum,1
+Padme,Chancellor Valorum,3
+Palpatine,Chancellor Valorum,3
+Eirtae,Chancellor Valorum,2
+Chancellor Valorum,Rabe,2
+Palpatine,Rabe,5
+Yoda,Mace Windu,19
+Qui-Gon Jinn,Mace Windu,3
+Obi-Wan Kenobi,Mace Windu,17
+Queen,Aks Moe,1
+Queen,Mas Amedda,5
+Queen,Bail Organa,5
+Queen,Lott Dod,1
+Aks Moe,Battle Droid,1
+Aks Moe,Mas Amedda,1
+Aks Moe,Chancellor Valorum,1
+Aks Moe,Bail Organa,1
+Captain Panaka,Aks Moe,1
+Aks Moe,Padme,1
+Aks Moe,Palpatine,1
+Aks Moe,Lott Dod,1
+Aks Moe,Rabe,1
+Battle Droid,Mas Amedda,1
+Battle Droid,Bail Organa,3
+Battle Droid,Lott Dod,1
+Chancellor Valorum,Mas Amedda,1
+Mas Amedda,Bail Organa,5
+Captain Panaka,Mas Amedda,1
+Padme,Mas Amedda,5
+Palpatine,Mas Amedda,11
+Lott Dod,Mas Amedda,1
+Mas Amedda,Rabe,1
+Chancellor Valorum,Bail Organa,2
+Chancellor Valorum,Lott Dod,1
+Captain Panaka,Bail Organa,2
+Padme,Bail Organa,4
+Palpatine,Bail Organa,12
+Lott Dod,Bail Organa,1
+Rabe,Bail Organa,1
+Captain Panaka,Lott Dod,1
+Padme,Lott Dod,1
+Palpatine,Lott Dod,1
+Lott Dod,Rabe,1
+Mace Windu,Anakin Skywalker,16
+Jar Jar Binks,Bail Organa,6
+Eirtae,Bail Organa,1
+Mace Windu,Chancellor Valorum,1
+Queen,Mace Windu,5
+Yoda,Chancellor Valorum,1
+Yoda,Queen,6
+Stormtrooper,Qui-Gon Jinn,5
+Stormtrooper,Anakin Skywalker,9
+Stormtrooper,Bespin Guards,6
+Stormtrooper,Captain Panaka,8
+Stormtrooper,R2-D2,5
+Stormtrooper,Obi-Wan Kenobi,12
+Stormtrooper,Queen,7
+Stormtrooper,Jar Jar Binks,5
+Stormtrooper,Padme Amidala,11
+Stormtrooper,Padme,3
+Stormtrooper,Palpatine,6
+Stormtrooper,Eirtae,6
+R2-D2,Bespin Guards,8
+R2-D2,Palpatine,11
+Stormtrooper,Luke Skywalker,2
+R2-D2,Republic Captain,4
+Stormtrooper,Captain Tarpals,1
+Stormtrooper,Republic Captain,2
+Captain Tarpals,Republic Captain,1
+Stormtrooper,Gungan Warrior,1
+Stormtrooper,Boss Nass,1
+Stormtrooper,Rabe,2
+Gungan Warrior,Qui-Gon Jinn,1
+Gungan Warrior,Anakin Skywalker,2
+Boss Nass,Anakin Skywalker,4
+Boss Nass,Bespin Guards,3
+Gungan Warrior,Captain Panaka,2
+Captain Panaka,Boss Nass,3
+Gungan Warrior,R2-D2,2
+R2-D2,Boss Nass,3
+Gungan Warrior,Obi-Wan Kenobi,2
+Queen,Gungan Warrior,2
+Queen,Boss Nass,4
+Gungan Warrior,Boss Nass,2
+Gungan Warrior,Padme Amidala,2
+Gungan Warrior,Padme,2
+Gungan Warrior,Eirtae,1
+Gungan Warrior,Rabe,1
+Boss Nass,Padme Amidala,2
+Boss Nass,Padme,2
+Boss Nass,Eirtae,2
+Boss Nass,Rabe,1
+Rebel Pilot,Bespin Guards,3
+R2-D2,Princess Leia,18
+Rebel Pilot,Princess Leia,2
+Boss Nass,Princess Leia,1
+R2-D2,Queen Jamillia,1
+R2-D2,Rebel Pilot,7
+Queen,Rebel Pilot,2
+Rebel Pilot,Queen Jamillia,1
+Boss Nass,Queen Jamillia,1
+Boss Nass,Rebel Pilot,1
+Rebel Pilot,Jar Jar Binks,2
+Rebel Pilot,Eirtae,2
+Stormtrooper,Battle Droid,10
+Gungan Warrior,Battle Droid,6
+Stormtrooper,Rebel Pilot,1
+Rebel Pilot,Battle Droid,4
+Destroyer Droids,Stormtrooper,1
+Stormtrooper,Darth Maul,1
+Destroyer Droids,Qui-Gon Jinn,1
+Destroyer Droids,Anakin Skywalker,3
+Destroyer Droids,Captain Panaka,3
+Captain Panaka,Darth Maul,1
+Destroyer Droids,R2-D2,2
+R2-D2,Darth Maul,1
+Destroyer Droids,Battle Droid,7
+Destroyer Droids,Obi-Wan Kenobi,2
+Destroyer Droids,Republic Captain,1
+Darth Maul,Republic Captain,1
+Palpatine,Republic Captain,3
+Destroyer Droids,Queen,1
+Destroyer Droids,Darth Maul,1
+Destroyer Droids,Padme Amidala,3
+Destroyer Droids,Palpatine,2
+Darth Maul,Padme Amidala,1
+Ric Olie,Bravo Two,4
+Bravo Two,Battle Droid,2
+Destroyer Droids,Gungan Warrior,3
+Destroyer Droids,Jar Jar Binks,3
+Ric Olie,R2-D2,2
+Bravo Two,Anakin Skywalker,2
+Bravo Two,R2-D2,2
+Stormtrooper,Rune,1
+Stormtrooper,Nute Gunray,2
+Darth Vader,Qui-Gon Jinn,1
+Darth Vader,Obi-Wan Kenobi,12
+Dofine,Tey How,1
+Ric Olie,Bravo Three,2
+Bravo Two,Bravo Three,2
+Bravo Three,Anakin Skywalker,1
+R2-D2,Bravo Three,1
+Stormtrooper,Rune Haako,1
+Yoda,Stormtrooper,2
+Bespin Guards,Rune Haako,2
+Yoda,Rune Haako,1
+Captain Panaka,Rune Haako,1
+Queen,Rune Haako,1
+Obi-Wan Kenobi,Rune Haako,2
+Padme,Rune Haako,1
+Padme Amidala,Rune Haako,1
+Nute Gunray,Rune Haako,4
+Palpatine,Rune Haako,2
+Yoda,Bespin Guards,4
+Yoda,Captain Panaka,2
+Yoda,Padme,4
+Yoda,Padme Amidala,7
+Yoda,Nute Gunray,1
+Yoda,Palpatine,14
+Captain Panaka,Mace Windu,1
+Mace Windu,Sio Bibble,1
+Boss Nass,Mace Windu,1
+Palpatine,Mace Windu,7
+Yoda,Sio Bibble,1
+Yoda,Boss Nass,1
+Boss Nass,Sio Bibble,2
+Boss Nass,Palpatine,2
+Gungan Warrior,Sio Bibble,1
+Gungan Warrior,Palpatine,1
+Count Dooku,Queen,4
+Count Dooku,Padme,4
+Dorme,Bespin Guards,3
+Queen,Dorme,4
+R2-D2,Dorme,2
+Captain Typho,Dorme,6
+Rebel Pilot,Dorme,1
+Dorme,Jar Jar Binks,5
+Padme,Dorme,4
+Dorme,Corde,1
+Captain Typho,Bespin Guards,3
+Corde,Bespin Guards,1
+Queen,Captain Typho,4
+Queen,Corde,1
+Captain Typho,R2-D2,4
+R2-D2,Corde,1
+Captain Typho,Rebel Pilot,1
+Captain Typho,Jar Jar Binks,5
+Captain Typho,Padme,5
+Captain Typho,Corde,1
+Padme,Rebel Pilot,1
+Rebel Pilot,Corde,1
+Corde,Jar Jar Binks,1
+Padme,Corde,1
+Darsana,Dorme,1
+Orn Free Taa,Dorme,2
+Dorme,Mas Amedda,2
+Dorme,Ask Aak,1
+Palpatine,Dorme,2
+Queen,Darsana,1
+Queen,Orn Free Taa,3
+Queen,Ask Aak,2
+Orn Free Taa,Darsana,1
+Darsana,Mas Amedda,1
+Darsana,Ask Aak,1
+Captain Typho,Darsana,1
+Darsana,Jar Jar Binks,1
+Padme,Darsana,1
+Darsana,Palpatine,1
+Orn Free Taa,Mas Amedda,3
+Orn Free Taa,Ask Aak,1
+Captain Typho,Orn Free Taa,2
+Orn Free Taa,Jar Jar Binks,3
+Padme,Orn Free Taa,3
+Orn Free Taa,Palpatine,3
+Ask Aak,Mas Amedda,2
+Captain Typho,Mas Amedda,3
+Jar Jar Binks,Mas Amedda,5
+Captain Typho,Ask Aak,1
+Jar Jar Binks,Ask Aak,2
+Padme,Ask Aak,2
+Palpatine,Ask Aak,2
+Captain Typho,Palpatine,3
+Mace Windu,Plo Koon,4
+Orn Free Taa,Mace Windu,1
+Count Dooku,Mace Windu,7
+Mace Windu,Bail Organa,3
+Padme,Mace Windu,3
+Dar Wac,Mace Windu,1
+Dorme,Mace Windu,2
+Mace Windu,Bespin Guards,1
+Mace Windu,Mas Amedda,2
+Captain Typho,Mace Windu,2
+Mace Windu,Jar Jar Binks,4
+Yoda,Plo Koon,4
+Orn Free Taa,Plo Koon,1
+Count Dooku,Plo Koon,1
+Bail Organa,Plo Koon,1
+Padme,Plo Koon,2
+Dar Wac,Plo Koon,1
+Dorme,Plo Koon,1
+Bespin Guards,Plo Koon,1
+Queen,Plo Koon,2
+Obi-Wan Kenobi,Plo Koon,4
+Mas Amedda,Plo Koon,1
+Captain Typho,Plo Koon,1
+Jar Jar Binks,Plo Koon,1
+Palpatine,Plo Koon,2
+Yoda,Orn Free Taa,1
+Yoda,Count Dooku,6
+Yoda,Bail Organa,15
+Yoda,Dar Wac,1
+Yoda,Dorme,2
+Yoda,Mas Amedda,6
+Yoda,Captain Typho,1
+Yoda,Jar Jar Binks,3
+Count Dooku,Orn Free Taa,1
+Orn Free Taa,Bail Organa,1
+Orn Free Taa,Dar Wac,1
+Orn Free Taa,Bespin Guards,1
+Orn Free Taa,Obi-Wan Kenobi,1
+Count Dooku,Bail Organa,4
+Count Dooku,Dar Wac,1
+Count Dooku,Dorme,1
+Count Dooku,Bespin Guards,4
+Count Dooku,Mas Amedda,2
+Count Dooku,Captain Typho,1
+Count Dooku,Palpatine,13
+Dar Wac,Bail Organa,1
+Dorme,Bail Organa,1
+Bespin Guards,Bail Organa,4
+Obi-Wan Kenobi,Bail Organa,14
+Captain Typho,Bail Organa,2
+Padme,Dar Wac,1
+Dar Wac,Dorme,1
+Dar Wac,Bespin Guards,2
+Queen,Dar Wac,1
+Dar Wac,Obi-Wan Kenobi,1
+Dar Wac,Mas Amedda,1
+Captain Typho,Dar Wac,1
+Dar Wac,Jar Jar Binks,1
+Dar Wac,Palpatine,1
+Obi-Wan Kenobi,Dorme,4
+Mas Amedda,Bespin Guards,3
+Obi-Wan Kenobi,Mas Amedda,3
+Captain Typho,Obi-Wan Kenobi,6
+Dorme,Anakin Skywalker,4
+Padme Amidala,Dorme,4
+Captain Typho,Anakin Skywalker,6
+Captain Typho,Padme Amidala,8
+Captain Typho,Battle Droid,1
+Battle Droid,Dorme,1
+Zam Wessel,Anakin Skywalker,4
+Yoda,Zam Wessel,1
+Zam Wessel,Battle Droid,2
+Zam Wessel,Obi-Wan Kenobi,4
+Yoda,Battle Droid,9
+Zam Wessel,Elan Sleazebaggano,1
+Obi-Wan Kenobi,Elan Sleazebaggano,1
+Anakin Skywalker,Elan Sleazebaggano,1
+Padme Amidala,Mace Windu,7
+Obi-Wan Kenobi,Dexter Jettster,1
+Count Dooku,Anakin Skywalker,19
+Nute Gunray,Anakin Skywalker,8
+Count Dooku,Princess Leia,1
+Nute Gunray,Princess Leia,1
+Count Dooku,Queen Jamillia,1
+Nute Gunray,Queen Jamillia,1
+Count Dooku,Sio Bibble,1
+Count Dooku,Padme Amidala,12
+Count Dooku,Nute Gunray,4
+Count Dooku,Jocasta Nu,1
+Jocasta Nu,Obi-Wan Kenobi,1
+Ryoo,Anakin Skywalker,1
+R2-D2,Ryoo,1
+Padme Amidala,Ryoo,1
+Ryoo,Pooja,1
+Anakin Skywalker,Pooja,1
+R2-D2,Pooja,1
+Padme Amidala,Pooja,1
+Jobal,Anakin Skywalker,2
+Ruwee,Jobal,1
+Padme Amidala,Jobal,2
+Shmi,Jobal,2
+Jobal,Sola,2
+Ruwee,Anakin Skywalker,3
+Anakin Skywalker,Sola,2
+Padme Amidala,Ruwee,1
+Shmi,Ruwee,1
+Ruwee,Sola,1
+Padme Amidala,Sola,2
+Shmi,Sola,2
+Jedi Child May,Battle Droid,1
+Jedi Child May,Jedi Child Jack,1
+Jedi Child May,Yoda,1
+Jedi Child May,Obi-Wan Kenobi,1
+Battle Droid,Jedi Child Jack,1
+Yoda,Jedi Child Jack,1
+Obi-Wan Kenobi,Jedi Child Jack,1
+Taun We,Obi-Wan Kenobi,9
+Taun We,Lama Su,5
+Taun We,Sifo-Dyas,1
+Obi-Wan Kenobi,Lama Su,7
+Obi-Wan Kenobi,Sifo-Dyas,1
+Lama Su,Sifo-Dyas,1
+Lama Su,Jango Fett,1
+Clone Troopers,Lama Su,3
+Taun We,Jango Fett,4
+Taun We,Clone Troopers,2
+Clone Troopers,Jango Fett,1
+Obi-Wan Kenobi,Jango Fett,12
+Clone Troopers,Obi-Wan Kenobi,15
+Boba Fett,Lama Su,1
+Taun We,Boba Fett,3
+Boba Fett,Clone Troopers,2
+Boba Fett,Obi-Wan Kenobi,12
+Boba Fett,Jango Fett,10
+Count Dooku,Taun We,1
+Count Dooku,Jango Fett,5
+Count Dooku,Boba Fett,5
+Yoda,Taun We,1
+Yoda,Jango Fett,2
+Yoda,Boba Fett,3
+Anakin Skywalker,Cliegg Lars,3
+Owen Lars,Anakin Skywalker,5
+Anakin Skywalker,Beru Lars,3
+Shmi,Cliegg Lars,1
+Owen Lars,Cliegg Lars,3
+Beru Lars,Cliegg Lars,4
+C-3P0,Cliegg Lars,2
+C-3PO,Cliegg Lars,2
+Padme Amidala,Cliegg Lars,3
+Owen Lars,Shmi,1
+Shmi,Beru Lars,1
+Owen Lars,Beru Lars,9
+C-3P0,Owen Lars,8
+Owen Lars,C-3PO,8
+Padme Amidala,Owen Lars,5
+C-3P0,Beru Lars,5
+C-3PO,Beru Lars,5
+Padme Amidala,Beru Lars,4
+Beru Lars,Tusken Raider,1
+Tusken Raider,Cliegg Lars,1
+Anakin Skywalker,Jawa,1
+C-3P0,Padme,4
+Padme,C-3PO,4
+Tusken Raider,Bespin Guards,1
+Darth Vader,Mace Windu,2
+Mace Windu,Ask Aak,1
+Mace Windu,Jango Fett,3
+Yoda,Darth Vader,7
+Yoda,Ask Aak,1
+Queen,Jango Fett,1
+Darth Vader,Mas Amedda,3
+Darth Vader,Ask Aak,1
+Darth Vader,Count Dooku,1
+Darth Vader,Jar Jar Binks,1
+Darth Vader,Bail Organa,2
+Darth Vader,Jango Fett,1
+Darth Vader,Padme,1
+Obi-Wan Kenobi,Ask Aak,1
+Jango Fett,Mas Amedda,1
+Count Dooku,Ask Aak,1
+Ask Aak,Bail Organa,1
+Jango Fett,Ask Aak,1
+Jango Fett,Jar Jar Binks,1
+Jango Fett,Bail Organa,1
+Padme,Jango Fett,1
+Palpatine,Jango Fett,2
+Owen Lars,Padme,1
+Padme,Beru Lars,1
+Count Dooku,C-3P0,4
+Count Dooku,C-3PO,4
+Count Dooku,R2-D2,5
+C-3P0,Obi-Wan Kenobi,20
+Obi-Wan Kenobi,C-3PO,20
+R2-D2,Cliegg Lars,1
+R2-D2,Owen Lars,3
+R2-D2,Beru Lars,3
+C-3P0,Mace Windu,3
+C-3PO,Mace Windu,3
+R2-D2,Mace Windu,3
+Count Dooku,Geonosian,5
+Geonosian,Anakin Skywalker,6
+Geonosian,Queen,1
+Geonosian,Padme Amidala,6
+Geonosian,Padme,1
+Anakin Skywalker,Jango Fett,4
+Boba Fett,Anakin Skywalker,8
+Jango Fett,Bespin Guards,1
+Boba Fett,Bespin Guards,2
+Padme Amidala,Jango Fett,4
+Boba Fett,Padme Amidala,5
+Boba Fett,Palpatine,2
+Poggle the Lesser,Passel Argente,1
+Poggle the Lesser,Anakin Skywalker,2
+Poggle the Lesser,Bespin Guards,1
+Poggle the Lesser,Wat Tambor,1
+Poggle the Lesser,Geonosian,2
+Poggle the Lesser,Sun Rit,2
+Poggle the Lesser,Tessek,1
+Poggle the Lesser,San Hill,1
+Poggle the Lesser,Toonbuck Toora,1
+Poggle the Lesser,Count Dooku,2
+Poggle the Lesser,Shu Mai,1
+Poggle the Lesser,Padme Amidala,2
+Poggle the Lesser,Nute Gunray,2
+Passel Argente,Anakin Skywalker,1
+Passel Argente,Bespin Guards,1
+Passel Argente,Wat Tambor,2
+Geonosian,Passel Argente,1
+Sun Rit,Passel Argente,1
+Tessek,Passel Argente,1
+Passel Argente,San Hill,1
+Passel Argente,Toonbuck Toora,1
+Count Dooku,Passel Argente,2
+Passel Argente,Shu Mai,2
+Padme Amidala,Passel Argente,1
+Passel Argente,Nute Gunray,2
+Anakin Skywalker,Wat Tambor,3
+Sun Rit,Anakin Skywalker,2
+Tessek,Anakin Skywalker,1
+San Hill,Anakin Skywalker,1
+Toonbuck Toora,Anakin Skywalker,1
+Anakin Skywalker,Shu Mai,3
+Bespin Guards,Wat Tambor,2
+Geonosian,Bespin Guards,1
+Sun Rit,Bespin Guards,1
+Tessek,Bespin Guards,1
+San Hill,Bespin Guards,1
+Toonbuck Toora,Bespin Guards,1
+Bespin Guards,Shu Mai,2
+Geonosian,Wat Tambor,1
+Sun Rit,Wat Tambor,1
+Tessek,Wat Tambor,1
+San Hill,Wat Tambor,1
+Toonbuck Toora,Wat Tambor,1
+Count Dooku,Wat Tambor,2
+Shu Mai,Wat Tambor,4
+Padme Amidala,Wat Tambor,1
+Nute Gunray,Wat Tambor,4
+Geonosian,Sun Rit,2
+Geonosian,Tessek,1
+Geonosian,San Hill,1
+Geonosian,Toonbuck Toora,1
+Geonosian,Shu Mai,1
+Geonosian,Nute Gunray,2
+Tessek,Sun Rit,1
+Sun Rit,San Hill,1
+Sun Rit,Toonbuck Toora,1
+Count Dooku,Sun Rit,2
+Sun Rit,Shu Mai,1
+Sun Rit,Padme Amidala,2
+Sun Rit,Nute Gunray,2
+Tessek,San Hill,1
+Tessek,Toonbuck Toora,1
+Tessek,Count Dooku,1
+Tessek,Shu Mai,1
+Tessek,Padme Amidala,1
+Tessek,Nute Gunray,1
+San Hill,Toonbuck Toora,1
+Count Dooku,San Hill,1
+San Hill,Shu Mai,1
+Padme Amidala,San Hill,1
+San Hill,Nute Gunray,1
+Count Dooku,Toonbuck Toora,1
+Toonbuck Toora,Shu Mai,1
+Padme Amidala,Toonbuck Toora,1
+Toonbuck Toora,Nute Gunray,1
+Count Dooku,Shu Mai,2
+Padme Amidala,Shu Mai,1
+Nute Gunray,Shu Mai,4
+Poggle the Lesser,Boba Fett,1
+Poggle the Lesser,Obi-Wan Kenobi,1
+Poggle the Lesser,Jango Fett,1
+Geonosian,Boba Fett,4
+Geonosian,Obi-Wan Kenobi,4
+Geonosian,Jango Fett,3
+Boba Fett,Sun Rit,1
+Boba Fett,Nute Gunray,1
+Sun Rit,Obi-Wan Kenobi,1
+Sun Rit,Jango Fett,1
+Nute Gunray,Jango Fett,1
+Stormtrooper,Mace Windu,1
+Geonosian,Stormtrooper,1
+Stormtrooper,Boba Fett,1
+Count Dooku,Stormtrooper,2
+Stormtrooper,Jango Fett,1
+Geonosian,Mace Windu,3
+Boba Fett,Mace Windu,3
+Battle Droid,Mace Windu,4
+Geonosian,Battle Droid,3
+Boba Fett,Battle Droid,3
+Count Dooku,Battle Droid,8
+Battle Droid,Jango Fett,2
+Battle Droid,Plo Koon,1
+Clone Troopers,Mace Windu,2
+Clone Troopers,Anakin Skywalker,10
+Yoda,Geonosian,1
+Yoda,Clone Troopers,8
+Geonosian,Clone Troopers,1
+Clone Troopers,Battle Droid,12
+Count Dooku,Clone Troopers,4
+Padme Amidala,Clone Troopers,2
+Count Dooku,Rebel Pilot,1
+Rebel Pilot,Clone Troopers,2
+Count Dooku,Republic Captain,2
+Clone Troopers,Republic Captain,3
+Yoda,Republic Captain,2
+Stormtrooper,Bail Organa,2
+R2-D2,R4-D17,2
+Obi-Wan Kenobi,R4-D17,2
+Anakin Skywalker,R4-D17,2
+Odd Ball,Red Leader,1
+Odd Ball,Wedge Antilles,1
+Odd Ball,Anakin Skywalker,2
+Odd Ball,Obi-Wan Kenobi,2
+Red Leader,Wedge Antilles,42
+Red Leader,Anakin Skywalker,2
+Red Leader,Obi-Wan Kenobi,2
+Wedge Antilles,Anakin Skywalker,2
+Obi-Wan Kenobi,Wedge Antilles,2
+Anakin Skywalker,Clone Pilot,1
+Anakin Skywalker,Buzz Droid,1
+R2-D2,Clone Troopers,1
+R2-D2,Clone Pilot,1
+Odd Ball,R2-D2,1
+R2-D2,Buzz Droid,1
+Battle Droid,Clone Pilot,1
+Odd Ball,Battle Droid,1
+Battle Droid,Buzz Droid,1
+Battle Droid,R4-D17,1
+Obi-Wan Kenobi,Clone Pilot,1
+Obi-Wan Kenobi,Buzz Droid,1
+Clone Troopers,Clone Pilot,1
+Odd Ball,Clone Troopers,1
+Clone Troopers,Buzz Droid,1
+Clone Troopers,R4-D17,1
+Odd Ball,Clone Pilot,1
+Rebel Pilot,Clone Pilot,2
+Clone Pilot,Buzz Droid,1
+Clone Pilot,R4-D17,1
+Odd Ball,Rebel Pilot,1
+Odd Ball,Buzz Droid,1
+Odd Ball,R4-D17,1
+Rebel Pilot,Buzz Droid,1
+Rebel Pilot,R4-D17,1
+R4-D17,Buzz Droid,1
+Count Dooku,General Grievous,5
+Republic Captain,General Grievous,1
+Obi-Wan Kenobi,General Grievous,15
+General Grievous,Anakin Skywalker,8
+Count Dooku,Luke Skywalker,1
+Palpatine,Luke Skywalker,6
+Rebel Pilot,General Grievous,3
+General Grievous,Bodyguard,4
+Destroyer Droids,Count Dooku,1
+Anakin Skywalker,Bodyguard,1
+R2-D2,General Grievous,2
+Battle Droid,General Grievous,6
+Palpatine,General Grievous,8
+R2-D2,Bodyguard,1
+Battle Droid,Bodyguard,2
+Obi-Wan Kenobi,Bodyguard,2
+Rebel Pilot,Bodyguard,1
+Palpatine,Bodyguard,1
+Rebel Pilot,Palpatine,4
+General Grievous,Mace Windu,4
+Anakin Skywalker,Bail Organa,4
+C-3P0,General Grievous,1
+C-3PO,General Grievous,1
+General Grievous,Jar Jar Binks,1
+General Grievous,Bail Organa,1
+R2-D2,Bail Organa,6
+C-3P0,Bail Organa,6
+C-3P0,Palpatine,3
+C-3PO,Bail Organa,6
+Palpatine,C-3PO,3
+Padme Amidala,Bail Organa,8
+Master Vos,Obi-Wan Kenobi,1
+Master Vos,Anakin Skywalker,1
+Fang Zar,Queen,2
+Fang Zar,Mon Mothma,2
+Fang Zar,Terr Taneel,1
+Fang Zar,Bail Organa,2
+Fang Zar,Padme Amidala,3
+Fang Zar,Palpatine,2
+Fang Zar,Giddean Danu,2
+Queen,Mon Mothma,1
+Queen,Terr Taneel,1
+Queen,Giddean Danu,1
+Mon Mothma,Terr Taneel,1
+Mon Mothma,Bail Organa,3
+Mon Mothma,Padme Amidala,2
+Mon Mothma,Palpatine,2
+Mon Mothma,Giddean Danu,2
+Terr Taneel,Bail Organa,1
+Padme Amidala,Terr Taneel,1
+Palpatine,Terr Taneel,1
+Terr Taneel,Giddean Danu,1
+Giddean Danu,Bail Organa,2
+Padme Amidala,Giddean Danu,2
+Palpatine,Giddean Danu,1
+Mace Windu,Luke Skywalker,2
+Anakin Skywalker,Plo Koon,2
+General Grievous,Plo Koon,2
+Luke Skywalker,Plo Koon,1
+Yoda,General Grievous,3
+General Grievous,Luke Skywalker,1
+Motee,Captain Typho,1
+Motee,Padme Amidala,1
+Motee,Anakin Skywalker,1
+Darth Plagueis,Palpatine,1
+Darth Plagueis,Anakin Skywalker,1
+Darth Plagueis,Mas Amedda,1
+Anakin Skywalker,Mas Amedda,2
+Baron Papanoida,Mace Windu,1
+Agen Kolar,Mace Windu,2
+Baron Papanoida,Anakin Skywalker,1
+Agen Kolar,Anakin Skywalker,1
+Baron Papanoida,Plo Koon,1
+Agen Kolar,Plo Koon,1
+Yoda,Baron Papanoida,1
+Yoda,Agen Kolar,1
+Baron Papanoida,General Grievous,1
+Agen Kolar,General Grievous,1
+Obi-Wan Kenobi,Baron Papanoida,1
+Obi-Wan Kenobi,Agen Kolar,1
+Agen Kolar,Baron Papanoida,1
+Yoda,Clone Commander Gree,2
+Mon Mothma,Chi Eekway,1
+Mon Mothma,Bana Breemu,1
+Chi Eekway,Bana Breemu,1
+Chi Eekway,Bail Organa,1
+Fang Zar,Chi Eekway,1
+Padme Amidala,Chi Eekway,1
+Chi Eekway,Giddean Danu,1
+Bana Breemu,Bail Organa,1
+Fang Zar,Bana Breemu,1
+Padme Amidala,Bana Breemu,1
+Giddean Danu,Bana Breemu,1
+Clone Commander Cody,Clone Troopers,2
+Clone Commander Cody,Obi-Wan Kenobi,3
+Clone Commander Cody,Anakin Skywalker,2
+General Grievous,Bespin Guards,1
+General Grievous,Mas Amedda,1
+Tion Medon,Obi-Wan Kenobi,1
+Tion Medon,General Grievous,2
+Tion Medon,R4-G9,1
+Obi-Wan Kenobi,R4-G9,1
+General Grievous,R4-G9,1
+Tion Medon,Bodyguard,1
+Wrangler,Obi-Wan Kenobi,1
+Passel Argente,General Grievous,1
+Passel Argente,Rune Haako,1
+Passel Argente,Obi-Wan Kenobi,1
+Passel Argente,Palpatine,1
+General Grievous,Rune Haako,1
+General Grievous,Wat Tambor,1
+General Grievous,Shu Mai,1
+Nute Gunray,General Grievous,1
+Rune Haako,Wat Tambor,3
+Count Dooku,Rune Haako,1
+Rune Haako,Shu Mai,3
+Obi-Wan Kenobi,Wat Tambor,1
+Palpatine,Wat Tambor,1
+Obi-Wan Kenobi,Shu Mai,1
+Palpatine,Shu Mai,1
+Count Dooku,Bodyguard,1
+Stormtrooper,General Grievous,2
+Stormtrooper,Bodyguard,1
+Stormtrooper,Clone Troopers,4
+Clone Troopers,General Grievous,3
+Clone Troopers,Bodyguard,1
+Fang Zar,Anakin Skywalker,1
+Sweitt Concorkill,Anakin Skywalker,1
+Anakin Skywalker,Maledee,1
+Fang Zar,Sweitt Concorkill,1
+Fang Zar,Padme,1
+Fang Zar,Maledee,1
+Queen,Sweitt Concorkill,1
+Queen,Maledee,1
+Padme Amidala,Sweitt Concorkill,1
+Padme,Sweitt Concorkill,1
+Palpatine,Sweitt Concorkill,1
+Sweitt Concorkill,Maledee,1
+Padme Amidala,Maledee,1
+Padme,Maledee,1
+Palpatine,Maledee,1
+Aayla Secura,Mace Windu,1
+Aayla Secura,Anakin Skywalker,1
+Clone Commander Cody,Aayla Secura,1
+Yoda,Aayla Secura,1
+Aayla Secura,Obi-Wan Kenobi,1
+Clone Commander Cody,Mace Windu,1
+Clone Commander Cody,Yoda,1
+Mace Windu,Kit Fisto,2
+Anakin Skywalker,Kit Fisto,1
+Luke Skywalker,Kit Fisto,1
+Palpatine,Kit Fisto,1
+Agen Kolar,Kit Fisto,1
+Darth Vader,Anakin Skywalker,13
+Darth Vader,General Grievous,2
+Padme Amidala,General Grievous,2
+Darth Vader,Padme Amidala,4
+Clone Commander Cody,Stormtrooper,1
+Clone Commander Cody,Battle Droid,1
+Clone Commander Cody,Palpatine,1
+Clone Troopers,Palpatine,6
+Stormtrooper,Clone Commander Bacara,1
+Clone Commander Bacara,Clone Troopers,1
+Clone Commander Bacara,Palpatine,1
+Stormtrooper,Aayla Secura,1
+Stormtrooper,Barriss Offee,1
+Aayla Secura,Battle Droid,1
+Clone Troopers,Aayla Secura,1
+Aayla Secura,Barriss Offee,1
+Battle Droid,Barriss Offee,1
+Clone Troopers,Barriss Offee,1
+Master Vos,Clone Troopers,1
+Palpatine,Clone Pilot,1
+Clone Troopers,Stass Allie,1
+Clone Commander Gree,Palpatine,1
+Clone Commander Gree,Chewbacca,1
+Clone Commander Gree,Battle Droid,1
+Clone Commander Gree,Tarfful,1
+Clone Commander Gree,Clone Troopers,1
+Chewbacca,Battle Droid,1
+Chewbacca,Tarfful,3
+Chewbacca,Yoda,4
+Chewbacca,Clone Troopers,2
+Battle Droid,Tarfful,1
+Yoda,Tarfful,3
+Clone Troopers,Tarfful,2
+Anakin Skywalker,Shaak Ti,1
+Clone Commander Appo,Clone Troopers,1
+Clone Commander Appo,Zett Jukassa,1
+Clone Commander Appo,Bail Organa,1
+Clone Troopers,Zett Jukassa,1
+Clone Troopers,Bail Organa,1
+Zett Jukassa,Bail Organa,1
+Chewbacca,Ponda Babba,1
+Ponda Babba,Tarfful,1
+Yoda,Ponda Babba,3
+Clone Troopers,Ponda Babba,1
+Royal Guards,Bespin Guards,1
+Royal Guards,Bail Organa,1
+Captain Antilles,Bail Organa,2
+Captain Typho,C-3P0,2
+Captain Typho,C-3PO,2
+Rebel Pilot,Bail Organa,2
+Yoda,Rebel Pilot,2
+Rebel Pilot,Mas Amedda,1
+Padme Amidala,Mas Amedda,1
+Anakin Skywalker,Rune Haako,2
+Battle Droid,Rune Haako,2
+Battle Droid,Wat Tambor,2
+Battle Droid,Shu Mai,2
+Rune,Anakin Skywalker,1
+Destroyer Droids,Rune Haako,1
+Rune,Rune Haako,1
+Destroyer Droids,Wat Tambor,1
+Rune,Wat Tambor,1
+Destroyer Droids,Rune,1
+Destroyer Droids,Shu Mai,1
+Destroyer Droids,Nute Gunray,1
+Rune,Shu Mai,1
+Darth Vader,Luke Skywalker,21
+Darth Vader,Clone Commander Thire,1
+Yoda,Clone Commander Thire,1
+Palpatine,Clone Commander Thire,1
+Clone Commander Thire,Mas Amedda,1
+Worker Droid,Anakin Skywalker,1
+Worker Droid,Battle Droid,1
+Worker Droid,Palpatine,1
+Worker Droid,Obi-Wan Kenobi,1
+Qui-Gon Jinn,Bail Organa,1
+Yoda,C-3P0,4
+Yoda,C-3PO,4
+Yoda,R2-D2,9
+Yoda,Medical Droid,2
+Medical Droid,R2-D2,2
+Medical Droid,Obi-Wan Kenobi,2
+Medical Droid,Battle Droid,4
+Medical Droid,C-3P0,2
+Medical Droid,C-3PO,2
+Medical Droid,Bail Organa,2
+Medical Droid,Padme Amidala,3
+Yoda,Princess Leia,3
+C-3P0,Princess Leia,42
+C-3PO,Princess Leia,42
+Bail Organa,Princess Leia,2
+Medical Droid,Princess Leia,1
+Medical Droid,Anakin Skywalker,1
+Medical Droid,Darth Vader,1
+Medical Droid,Palpatine,1
+Darth Vader,Battle Droid,1
+C-3P0,Captain Antilles,2
+Captain Antilles,C-3PO,2
+R2-D2,Captain Antilles,2
+Darth Vader,Tarkin,8
+Tarkin,Palpatine,1
+Owen Lars,Obi-Wan Kenobi,3
+Obi-Wan Kenobi,Beru Lars,3
+Darth Vader,Imperial Officer,3
+Darth Vader,Rebel Officer,1
+Imperial Officer,Rebel Officer,1
+Windy,Deak,1
+Windy,Wormie,1
+Windy,Luke Skywalker,1
+Camie,Windy,1
+Fixer,Windy,1
+Windy,Biggs Darklighter,1
+Deak,Wormie,1
+Deak,Luke Skywalker,2
+Camie,Deak,1
+Fixer,Deak,2
+Biggs Darklighter,Deak,2
+Wormie,Luke Skywalker,1
+Camie,Wormie,1
+Fixer,Wormie,1
+Biggs Darklighter,Wormie,1
+Camie,Luke Skywalker,2
+Fixer,Luke Skywalker,3
+Biggs Darklighter,Luke Skywalker,15
+Camie,Fixer,2
+Camie,Biggs Darklighter,2
+Fixer,Biggs Darklighter,3
+Darth Vader,Rebel Trooper,2
+Darth Vader,Princess Leia,10
+Rebel Trooper,Princess Leia,2
+Owen Lars,Deak,1
+Owen Lars,Luke Skywalker,9
+Fixer,Owen Lars,1
+Biggs Darklighter,Owen Lars,3
+C-3P0,Luke Skywalker,34
+C-3P0,Jawa,1
+C-3PO,Luke Skywalker,34
+C-3PO,Jawa,1
+Jawa,Luke Skywalker,2
+Beru Lars,Luke Skywalker,5
+R2-D2,Jawa,2
+Owen Lars,Jawa,1
+Beru Lars,Jawa,1
+Biggs Darklighter,Princess Leia,3
+Beru Lars,Princess Leia,1
+Captain Antilles,Princess Leia,1
+Luke Skywalker,Princess Leia,40
+R2-D2,Biggs Darklighter,3
+Biggs Darklighter,Obi-Wan Kenobi,3
+Obi-Wan Kenobi,Captain Antilles,1
+Biggs Darklighter,Beru Lars,2
+C-3P0,Biggs Darklighter,4
+Biggs Darklighter,Captain Antilles,1
+Biggs Darklighter,C-3PO,4
+Captain Antilles,Beru Lars,1
+Captain Antilles,Luke Skywalker,1
+Ben Quadrinaros,Luke Skywalker,32
+Biggs Darklighter,Ben Quadrinaros,2
+Owen Lars,Ben Quadrinaros,2
+Obi-Wan Kenobi,Ben Quadrinaros,36
+Beru Lars,Ben Quadrinaros,1
+C-3P0,Tusken Raider,1
+C-3PO,Tusken Raider,1
+Tusken Raider,Luke Skywalker,2
+C-3P0,Ben Quadrinaros,9
+C-3PO,Ben Quadrinaros,9
+Ben Quadrinaros,Princess Leia,6
+Darth Vader,R2-D2,4
+Darth Vader,C-3P0,4
+Darth Vader,C-3PO,4
+Darth Vader,Ben Quadrinaros,5
+Darth Vader,Commander Tagge,1
+Darth Vader,Admiral Motti,2
+Commander Tagge,Admiral Motti,1
+Commander Tagge,Tarkin,1
+Tarkin,Admiral Motti,2
+Jawa,Ben Quadrinaros,1
+Tusken Raider,Ben Quadrinaros,1
+Obi-Wan Kenobi,Jawa,1
+Tusken Raider,Jawa,1
+R2-D2,Tusken Raider,1
+Obi-Wan Kenobi,Tusken Raider,1
+Obi-Wan Kenobi,Doctor Evezan,1
+C-3P0,Doctor Evezan,1
+Bartender,Doctor Evezan,1
+Ponda Babba,Doctor Evezan,1
+C-3PO,Doctor Evezan,1
+Ben Quadrinaros,Doctor Evezan,1
+Luke Skywalker,Doctor Evezan,1
+Obi-Wan Kenobi,Bartender,1
+Obi-Wan Kenobi,Ponda Babba,2
+C-3P0,Bartender,1
+C-3P0,Ponda Babba,1
+Bartender,Ponda Babba,1
+Bartender,C-3PO,1
+Bartender,Ben Quadrinaros,1
+Bartender,Luke Skywalker,1
+Ponda Babba,C-3PO,1
+Ponda Babba,Ben Quadrinaros,2
+Ponda Babba,Luke Skywalker,3
+Chewbacca,Ben Quadrinaros,9
+Chewbacca,Luke Skywalker,28
+Chewbacca,Obi-Wan Kenobi,9
+Chewbacca,Han Solo,46
+Han Solo,Ben Quadrinaros,16
+Han Solo,Luke Skywalker,49
+Obi-Wan Kenobi,Han Solo,16
+Jabba the Hutt,Greedo,1
+Jabba the Hutt,Han Solo,3
+Greedo,Han Solo,1
+Tarkin,Imperial Officer,1
+C-3P0,Han Solo,43
+Han Solo,C-3PO,43
+R2-D2,Han Solo,14
+Admiral Motti,Princess Leia,1
+Tarkin,Princess Leia,1
+Chewbacca,R2-D2,11
+Chewbacca,C-3P0,35
+Chewbacca,C-3PO,35
+Stormtrooper,Han Solo,2
+Tarkin,Obi-Wan Kenobi,1
+Chewbacca,Princess Leia,39
+Han Solo,Princess Leia,57
+Darth Vader,Han Solo,8
+Wedge Antilles,General Dodonna,5
+Wedge Antilles,Lando Calrissian,4
+Wedge Antilles,Princess Leia,4
+Wedge Antilles,Luke Skywalker,17
+Wedge Antilles,Han Solo,3
+General Dodonna,Lando Calrissian,2
+General Dodonna,Princess Leia,3
+General Dodonna,Luke Skywalker,4
+Han Solo,General Dodonna,3
+Lando Calrissian,Princess Leia,22
+Lando Calrissian,Luke Skywalker,12
+Han Solo,Lando Calrissian,19
+Red Leader,General Dodonna,2
+Red Leader,Princess Leia,3
+Red Leader,R2-D2,2
+Red Leader,Biggs Darklighter,4
+Red Leader,Han Solo,2
+Red Leader,C-3P0,3
+Red Leader,C-3PO,3
+Red Leader,Luke Skywalker,6
+R2-D2,General Dodonna,1
+Biggs Darklighter,General Dodonna,3
+C-3P0,General Dodonna,1
+C-3PO,General Dodonna,1
+R2-D2,Wedge Antilles,3
+Biggs Darklighter,Han Solo,2
+Biggs Darklighter,Wedge Antilles,7
+C-3P0,Wedge Antilles,4
+Wedge Antilles,C-3PO,4
+Red Seven,Biggs Darklighter,1
+Red Nine,Porkins,1
+Red Eleven,Luke Skywalker,1
+Red Leader,Lando Calrissian,2
+Darth Vader,Stormtrooper,1
+Red Leader,Red Ten,1
+Wedge Antilles,Red Ten,1
+Luke Skywalker,Red Ten,2
+Red Ten,Princess Leia,1
+Biggs Darklighter,Lando Calrissian,2
+Gold Five,Princess Leia,1
+Gold Two,Luke Skywalker,1
+Red Leader,Gold Five,1
+Wedge Antilles,Gold Five,1
+Tarkin,Rebel Trooper,1
+Red Leader,Red Three,2
+Biggs Darklighter,Red Three,2
+Wedge Antilles,Red Three,2
+Darth Vader,Red Ten,1
+Darth Vader,Red Leader,2
+Darth Vader,Wedge Antilles,2
+Darth Vader,Biggs Darklighter,2
+Chewbacca,General Dodonna,1
+General Rieekan,Anakin Skywalker,1
+General Rieekan,Luke Skywalker,2
+General Rieekan,Princess Leia,4
+General Rieekan,Han Solo,3
+General Rieekan,Queen Jamillia,1
+Han Solo,Anakin Skywalker,5
+Queen Jamillia,Luke Skywalker,1
+Han Solo,Queen Jamillia,1
+Chewbacca,Anakin Skywalker,4
+Major Derlin,Anakin Skywalker,1
+Major Derlin,Princess Leia,2
+R2-D2,Major Derlin,1
+Chewbacca,Major Derlin,1
+C-3P0,Major Derlin,1
+Major Derlin,C-3PO,1
+Major Derlin,Luke Skywalker,1
+Han Solo,Zev,2
+General Rieekan,C-3P0,1
+General Rieekan,C-3PO,1
+General Rieekan,Flight Controller,2
+C-3P0,Flight Controller,3
+C-3PO,Flight Controller,3
+Luke Skywalker,Flight Controller,2
+Flight Controller,Princess Leia,3
+Han Solo,Flight Controller,3
+Darth Vader,Admiral Ozzel,2
+Darth Vader,Republic Captain,2
+Darth Vader,Admiral Piett,8
+Republic Captain,Admiral Ozzel,1
+Admiral Piett,Admiral Ozzel,2
+Republic Captain,Admiral Piett,2
+Republic Captain,Rebel Trooper,2
+Republic Captain,Rebel Officer,1
+Rebel Trooper,Rebel Officer,1
+Medical Droid,Luke Skywalker,1
+Darth Vader,General Veers,2
+Admiral Ozzel,General Veers,1
+Admiral Piett,General Veers,1
+Hobbie,Major Derlin,1
+Hobbie,Princess Leia,1
+Republic Captain,Flight Controller,2
+Dack Ralter,Luke Skywalker,4
+Hobbie,Luke Skywalker,2
+Janson,Wedge Antilles,4
+Luke Skywalker,Zev,2
+Rebel Pilot,General Veers,1
+R2-D2,Ponda Babba,1
+Darth Vader,Captain Needa,4
+Captain Needa,Admiral Piett,2
+Yoda,Ben Quadrinaros,3
+Destroyer Droids,Darth Vader,1
+Zuckuss,Admiral Piett,1
+Zuckuss,Flight Controller,1
+Darth Vader,Zuckuss,1
+Boba Fett,Zuckuss,1
+Admiral Piett,Flight Controller,2
+Boba Fett,Admiral Piett,2
+Darth Vader,Flight Controller,2
+Boba Fett,Flight Controller,2
+Darth Vader,Boba Fett,6
+Chewbacca,Lando Calrissian,19
+C-3P0,Lando Calrissian,14
+C-3PO,Lando Calrissian,14
+Chewbacca,Lobot,2
+Lobot,C-3P0,2
+Lobot,Lando Calrissian,2
+Lobot,C-3PO,2
+Lobot,Princess Leia,2
+Lobot,Han Solo,2
+Yoda,Han Solo,2
+Darth Vader,Lando Calrissian,8
+Boba Fett,Han Solo,7
+Boba Fett,Lando Calrissian,7
+Anakin Skywalker,Lando Calrissian,5
+Boba Fett,Princess Leia,5
+Boba Fett,Luke Skywalker,4
+Darth Vader,Chewbacca,4
+Imperial Officer,Anakin Skywalker,1
+Imperial Officer,Lando Calrissian,1
+Imperial Officer,Princess Leia,1
+Boba Fett,Imperial Officer,1
+Imperial Officer,Han Solo,1
+Chewbacca,Imperial Officer,1
+C-3P0,Imperial Officer,1
+Imperial Officer,C-3PO,1
+Imperial Officer,Luke Skywalker,1
+Chewbacca,Boba Fett,3
+Boba Fett,C-3P0,3
+Boba Fett,C-3PO,3
+R2-D2,Lando Calrissian,5
+Boba Fett,R2-D2,3
+Green Leader,Oola,1
+Green Leader,Princess Leia,1
+Green Leader,Yoda,1
+Green Leader,Boba Fett,1
+Green Leader,Owen Lars,1
+Green Leader,Bib Fortuna,1
+Green Leader,Red Two,1
+Green Leader,Chewbacca,1
+Green Leader,Chief Chirpa,1
+Green Leader,Rebel Pilot,1
+Green Leader,Admiral Piett,1
+Green Leader,Luke Skywalker,1
+Green Leader,Anakin Skywalker,1
+Green Leader,Lando Calrissian,1
+Green Leader,General Madine,1
+Green Leader,Darth Vader,1
+Green Leader,R2-D2,1
+Green Leader,Obi-Wan Kenobi,1
+Green Leader,Admiral Ackbar,1
+Green Leader,Mon Mothma,1
+Green Leader,C-3PO,1
+Green Leader,Ben Quadrinaros,1
+Green Leader,Flight Controller,1
+Green Leader,Teebo,1
+Green Leader,Palpatine,1
+Green Leader,Walker Pilot,1
+Green Leader,Red Leader,1
+Green Leader,Salacious Crumb,1
+Green Leader,EV-9D9,1
+Green Leader,Biggs Darklighter,1
+Green Leader,Republic Captain,1
+Green Leader,Nien Nunb,1
+Green Leader,C-3P0,1
+Green Leader,Bail Organa,1
+Green Leader,Jabba the Hutt,1
+Green Leader,Shuttle Captain,1
+Green Leader,Ewoks,1
+Green Leader,Logray,1
+Green Leader,Red Three,1
+Green Leader,Bespin Guards,1
+Green Leader,Han Solo,1
+Green Leader,Rebel Trooper,1
+Green Leader,Wicket,1
+Green Leader,Moff Jerjerrod,1
+Green Leader,Wedge Antilles,1
+Green Leader,Paploo,1
+Oola,Princess Leia,1
+Yoda,Oola,1
+Boba Fett,Oola,1
+Owen Lars,Oola,1
+Bib Fortuna,Oola,1
+Red Two,Oola,1
+Chewbacca,Oola,1
+Chief Chirpa,Oola,1
+Rebel Pilot,Oola,1
+Admiral Piett,Oola,1
+Oola,Luke Skywalker,1
+Oola,Anakin Skywalker,1
+Oola,Lando Calrissian,1
+General Madine,Oola,1
+Darth Vader,Oola,1
+R2-D2,Oola,1
+Obi-Wan Kenobi,Oola,1
+Admiral Ackbar,Oola,1
+Mon Mothma,Oola,1
+C-3PO,Oola,1
+Oola,Ben Quadrinaros,1
+Oola,Flight Controller,1
+Teebo,Oola,1
+Palpatine,Oola,1
+Walker Pilot,Oola,1
+Red Leader,Oola,1
+Salacious Crumb,Oola,1
+EV-9D9,Oola,1
+Biggs Darklighter,Oola,1
+Republic Captain,Oola,1
+Nien Nunb,Oola,1
+C-3P0,Oola,1
+Oola,Bail Organa,1
+Jabba the Hutt,Oola,1
+Shuttle Captain,Oola,1
+Oola,Ewoks,1
+Logray,Oola,1
+Red Three,Oola,1
+Oola,Bespin Guards,1
+Han Solo,Oola,1
+Oola,Rebel Trooper,1
+Oola,Wicket,1
+Oola,Moff Jerjerrod,1
+Wedge Antilles,Oola,1
+Paploo,Oola,1
+Owen Lars,Princess Leia,1
+Bib Fortuna,Princess Leia,1
+Red Two,Princess Leia,1
+Chief Chirpa,Princess Leia,1
+Admiral Piett,Princess Leia,1
+General Madine,Princess Leia,1
+Admiral Ackbar,Princess Leia,1
+Mon Mothma,Princess Leia,1
+Teebo,Princess Leia,1
+Walker Pilot,Princess Leia,1
+Salacious Crumb,Princess Leia,1
+EV-9D9,Princess Leia,1
+Republic Captain,Princess Leia,1
+Nien Nunb,Princess Leia,1
+Jabba the Hutt,Princess Leia,1
+Shuttle Captain,Princess Leia,1
+Ewoks,Princess Leia,1
+Logray,Princess Leia,1
+Red Three,Princess Leia,1
+Wicket,Princess Leia,1
+Moff Jerjerrod,Princess Leia,1
+Paploo,Princess Leia,1
+Yoda,Owen Lars,1
+Yoda,Bib Fortuna,1
+Yoda,Red Two,1
+Yoda,Chief Chirpa,1
+Yoda,Admiral Piett,1
+Yoda,Lando Calrissian,1
+Yoda,General Madine,1
+Yoda,Admiral Ackbar,1
+Yoda,Mon Mothma,1
+Yoda,Flight Controller,1
+Yoda,Teebo,1
+Yoda,Walker Pilot,1
+Yoda,Red Leader,1
+Yoda,Salacious Crumb,1
+Yoda,EV-9D9,1
+Yoda,Biggs Darklighter,1
+Yoda,Nien Nunb,1
+Yoda,Jabba the Hutt,1
+Yoda,Shuttle Captain,1
+Yoda,Ewoks,1
+Yoda,Logray,1
+Yoda,Red Three,1
+Yoda,Rebel Trooper,1
+Yoda,Wicket,1
+Yoda,Moff Jerjerrod,1
+Yoda,Wedge Antilles,1
+Yoda,Paploo,1
+Boba Fett,Owen Lars,1
+Boba Fett,Bib Fortuna,1
+Boba Fett,Red Two,1
+Chief Chirpa,Boba Fett,1
+Boba Fett,Rebel Pilot,1
+Boba Fett,General Madine,1
+Boba Fett,Admiral Ackbar,1
+Boba Fett,Mon Mothma,1
+Boba Fett,Ben Quadrinaros,1
+Boba Fett,Teebo,1
+Boba Fett,Walker Pilot,1
+Red Leader,Boba Fett,1
+Salacious Crumb,Boba Fett,1
+EV-9D9,Boba Fett,1
+Boba Fett,Biggs Darklighter,1
+Boba Fett,Republic Captain,1
+Nien Nunb,Boba Fett,1
+Boba Fett,Bail Organa,1
+Jabba the Hutt,Boba Fett,1
+Boba Fett,Shuttle Captain,1
+Boba Fett,Ewoks,1
+Boba Fett,Logray,1
+Boba Fett,Red Three,1
+Boba Fett,Rebel Trooper,1
+Boba Fett,Wicket,1
+Boba Fett,Moff Jerjerrod,1
+Boba Fett,Wedge Antilles,1
+Boba Fett,Paploo,1
+Owen Lars,Bib Fortuna,1
+Red Two,Owen Lars,1
+Chewbacca,Owen Lars,1
+Chief Chirpa,Owen Lars,1
+Rebel Pilot,Owen Lars,1
+Owen Lars,Admiral Piett,1
+Owen Lars,Lando Calrissian,1
+Owen Lars,General Madine,1
+Darth Vader,Owen Lars,1
+Admiral Ackbar,Owen Lars,1
+Mon Mothma,Owen Lars,1
+Owen Lars,Flight Controller,1
+Teebo,Owen Lars,1
+Owen Lars,Palpatine,1
+Owen Lars,Walker Pilot,1
+Red Leader,Owen Lars,1
+Salacious Crumb,Owen Lars,1
+EV-9D9,Owen Lars,1
+Owen Lars,Republic Captain,1
+Nien Nunb,Owen Lars,1
+Owen Lars,Bail Organa,1
+Jabba the Hutt,Owen Lars,1
+Shuttle Captain,Owen Lars,1
+Owen Lars,Ewoks,1
+Owen Lars,Logray,1
+Owen Lars,Red Three,1
+Owen Lars,Bespin Guards,1
+Owen Lars,Han Solo,1
+Owen Lars,Rebel Trooper,1
+Owen Lars,Wicket,1
+Owen Lars,Moff Jerjerrod,1
+Owen Lars,Wedge Antilles,1
+Paploo,Owen Lars,1
+Red Two,Bib Fortuna,1
+Chewbacca,Bib Fortuna,1
+Chief Chirpa,Bib Fortuna,1
+Rebel Pilot,Bib Fortuna,1
+Bib Fortuna,Admiral Piett,1
+Bib Fortuna,Luke Skywalker,1
+Bib Fortuna,Anakin Skywalker,1
+Bib Fortuna,Lando Calrissian,1
+Bib Fortuna,General Madine,1
+Darth Vader,Bib Fortuna,1
+R2-D2,Bib Fortuna,1
+Obi-Wan Kenobi,Bib Fortuna,1
+Admiral Ackbar,Bib Fortuna,1
+Mon Mothma,Bib Fortuna,1
+Bib Fortuna,C-3PO,1
+Bib Fortuna,Ben Quadrinaros,1
+Bib Fortuna,Flight Controller,1
+Teebo,Bib Fortuna,1
+Palpatine,Bib Fortuna,1
+Bib Fortuna,Walker Pilot,1
+Red Leader,Bib Fortuna,1
+Salacious Crumb,Bib Fortuna,1
+EV-9D9,Bib Fortuna,1
+Biggs Darklighter,Bib Fortuna,1
+Republic Captain,Bib Fortuna,1
+Nien Nunb,Bib Fortuna,1
+C-3P0,Bib Fortuna,1
+Bib Fortuna,Bail Organa,1
+Jabba the Hutt,Bib Fortuna,1
+Shuttle Captain,Bib Fortuna,1
+Bib Fortuna,Ewoks,1
+Logray,Bib Fortuna,1
+Bib Fortuna,Red Three,1
+Bib Fortuna,Bespin Guards,1
+Bib Fortuna,Han Solo,1
+Bib Fortuna,Rebel Trooper,1
+Bib Fortuna,Wicket,1
+Bib Fortuna,Moff Jerjerrod,1
+Wedge Antilles,Bib Fortuna,1
+Paploo,Bib Fortuna,1
+Chewbacca,Red Two,1
+Chief Chirpa,Red Two,1
+Rebel Pilot,Red Two,1
+Red Two,Admiral Piett,1
+Red Two,Luke Skywalker,1
+Red Two,Anakin Skywalker,1
+Red Two,Lando Calrissian,1
+Red Two,General Madine,1
+Darth Vader,Red Two,1
+R2-D2,Red Two,1
+Red Two,Obi-Wan Kenobi,1
+Admiral Ackbar,Red Two,1
+Mon Mothma,Red Two,1
+Red Two,C-3PO,1
+Red Two,Ben Quadrinaros,1
+Red Two,Flight Controller,1
+Teebo,Red Two,1
+Red Two,Palpatine,1
+Red Two,Walker Pilot,1
+Red Leader,Red Two,1
+Salacious Crumb,Red Two,1
+EV-9D9,Red Two,1
+Biggs Darklighter,Red Two,1
+Red Two,Republic Captain,1
+Nien Nunb,Red Two,1
+C-3P0,Red Two,1
+Red Two,Bail Organa,1
+Jabba the Hutt,Red Two,1
+Shuttle Captain,Red Two,1
+Red Two,Ewoks,1
+Red Two,Logray,1
+Red Two,Red Three,1
+Red Two,Bespin Guards,1
+Red Two,Han Solo,1
+Red Two,Rebel Trooper,1
+Red Two,Wicket,1
+Red Two,Moff Jerjerrod,1
+Red Two,Wedge Antilles,1
+Paploo,Red Two,1
+Chewbacca,Chief Chirpa,1
+Chewbacca,Rebel Pilot,1
+Chewbacca,Admiral Piett,1
+Chewbacca,General Madine,1
+Chewbacca,Admiral Ackbar,1
+Chewbacca,Mon Mothma,1
+Chewbacca,Flight Controller,1
+Chewbacca,Teebo,1
+Chewbacca,Palpatine,1
+Chewbacca,Walker Pilot,1
+Chewbacca,Red Leader,1
+Chewbacca,Salacious Crumb,1
+Chewbacca,EV-9D9,1
+Chewbacca,Biggs Darklighter,1
+Chewbacca,Republic Captain,1
+Chewbacca,Nien Nunb,1
+Chewbacca,Bail Organa,1
+Chewbacca,Jabba the Hutt,1
+Chewbacca,Shuttle Captain,1
+Chewbacca,Ewoks,1
+Chewbacca,Logray,1
+Chewbacca,Red Three,1
+Chewbacca,Bespin Guards,1
+Chewbacca,Rebel Trooper,1
+Chewbacca,Wicket,1
+Chewbacca,Moff Jerjerrod,1
+Chewbacca,Wedge Antilles,1
+Chewbacca,Paploo,1
+Chief Chirpa,Rebel Pilot,1
+Chief Chirpa,Admiral Piett,1
+Chief Chirpa,Luke Skywalker,1
+Chief Chirpa,Anakin Skywalker,1
+Chief Chirpa,Lando Calrissian,1
+Chief Chirpa,General Madine,1
+Chief Chirpa,Darth Vader,1
+Chief Chirpa,R2-D2,1
+Chief Chirpa,Obi-Wan Kenobi,1
+Chief Chirpa,Admiral Ackbar,1
+Chief Chirpa,Mon Mothma,1
+Chief Chirpa,C-3PO,1
+Chief Chirpa,Ben Quadrinaros,1
+Chief Chirpa,Flight Controller,1
+Chief Chirpa,Teebo,1
+Chief Chirpa,Palpatine,1
+Chief Chirpa,Walker Pilot,1
+Chief Chirpa,Red Leader,1
+Chief Chirpa,Salacious Crumb,1
+Chief Chirpa,EV-9D9,1
+Chief Chirpa,Biggs Darklighter,1
+Chief Chirpa,Republic Captain,1
+Chief Chirpa,Nien Nunb,1
+Chief Chirpa,C-3P0,1
+Chief Chirpa,Bail Organa,1
+Chief Chirpa,Jabba the Hutt,1
+Chief Chirpa,Shuttle Captain,1
+Chief Chirpa,Ewoks,1
+Chief Chirpa,Logray,1
+Chief Chirpa,Red Three,1
+Chief Chirpa,Bespin Guards,1
+Chief Chirpa,Han Solo,1
+Chief Chirpa,Rebel Trooper,1
+Chief Chirpa,Wicket,1
+Chief Chirpa,Moff Jerjerrod,1
+Chief Chirpa,Wedge Antilles,1
+Chief Chirpa,Paploo,1
+Rebel Pilot,Admiral Piett,1
+Rebel Pilot,Luke Skywalker,1
+Rebel Pilot,Lando Calrissian,1
+Rebel Pilot,General Madine,1
+Darth Vader,Rebel Pilot,1
+Admiral Ackbar,Rebel Pilot,1
+Mon Mothma,Rebel Pilot,1
+Rebel Pilot,C-3PO,1
+Rebel Pilot,Ben Quadrinaros,1
+Rebel Pilot,Flight Controller,1
+Teebo,Rebel Pilot,1
+Rebel Pilot,Walker Pilot,1
+Red Leader,Rebel Pilot,1
+Salacious Crumb,Rebel Pilot,1
+EV-9D9,Rebel Pilot,1
+Biggs Darklighter,Rebel Pilot,1
+Nien Nunb,Rebel Pilot,1
+C-3P0,Rebel Pilot,1
+Jabba the Hutt,Rebel Pilot,1
+Shuttle Captain,Rebel Pilot,1
+Rebel Pilot,Ewoks,1
+Rebel Pilot,Logray,1
+Rebel Pilot,Red Three,1
+Rebel Pilot,Han Solo,1
+Rebel Pilot,Rebel Trooper,1
+Rebel Pilot,Wicket,1
+Rebel Pilot,Moff Jerjerrod,1
+Rebel Pilot,Wedge Antilles,1
+Paploo,Rebel Pilot,1
+Admiral Piett,Luke Skywalker,1
+Admiral Piett,Anakin Skywalker,1
+Admiral Piett,Lando Calrissian,1
+General Madine,Admiral Piett,1
+R2-D2,Admiral Piett,1
+Obi-Wan Kenobi,Admiral Piett,1
+Admiral Ackbar,Admiral Piett,1
+Mon Mothma,Admiral Piett,1
+C-3PO,Admiral Piett,1
+Admiral Piett,Ben Quadrinaros,1
+Teebo,Admiral Piett,1
+Palpatine,Admiral Piett,1
+Walker Pilot,Admiral Piett,1
+Red Leader,Admiral Piett,1
+Salacious Crumb,Admiral Piett,1
+EV-9D9,Admiral Piett,1
+Biggs Darklighter,Admiral Piett,1
+Nien Nunb,Admiral Piett,1
+C-3P0,Admiral Piett,1
+Admiral Piett,Bail Organa,1
+Jabba the Hutt,Admiral Piett,1
+Shuttle Captain,Admiral Piett,1
+Admiral Piett,Ewoks,1
+Logray,Admiral Piett,1
+Red Three,Admiral Piett,1
+Admiral Piett,Bespin Guards,1
+Han Solo,Admiral Piett,1
+Admiral Piett,Rebel Trooper,1
+Admiral Piett,Wicket,1
+Admiral Piett,Moff Jerjerrod,1
+Wedge Antilles,Admiral Piett,1
+Paploo,Admiral Piett,1
+General Madine,Luke Skywalker,1
+Admiral Ackbar,Luke Skywalker,1
+Mon Mothma,Luke Skywalker,1
+Teebo,Luke Skywalker,1
+Walker Pilot,Luke Skywalker,1
+Salacious Crumb,Luke Skywalker,1
+EV-9D9,Luke Skywalker,1
+Republic Captain,Luke Skywalker,1
+Nien Nunb,Luke Skywalker,1
+Luke Skywalker,Bail Organa,1
+Jabba the Hutt,Luke Skywalker,1
+Shuttle Captain,Luke Skywalker,1
+Ewoks,Luke Skywalker,1
+Logray,Luke Skywalker,1
+Red Three,Luke Skywalker,1
+Bespin Guards,Luke Skywalker,1
+Rebel Trooper,Luke Skywalker,1
+Wicket,Luke Skywalker,1
+Luke Skywalker,Moff Jerjerrod,1
+Paploo,Luke Skywalker,1
+General Madine,Anakin Skywalker,1
+Admiral Ackbar,Anakin Skywalker,1
+Mon Mothma,Anakin Skywalker,1
+Anakin Skywalker,Flight Controller,1
+Teebo,Anakin Skywalker,1
+Walker Pilot,Anakin Skywalker,1
+Salacious Crumb,Anakin Skywalker,1
+EV-9D9,Anakin Skywalker,1
+Biggs Darklighter,Anakin Skywalker,1
+Nien Nunb,Anakin Skywalker,1
+Shuttle Captain,Anakin Skywalker,1
+Anakin Skywalker,Ewoks,1
+Logray,Anakin Skywalker,1
+Red Three,Anakin Skywalker,1
+Anakin Skywalker,Rebel Trooper,1
+Anakin Skywalker,Wicket,1
+Anakin Skywalker,Moff Jerjerrod,1
+Paploo,Anakin Skywalker,1
+General Madine,Lando Calrissian,1
+Obi-Wan Kenobi,Lando Calrissian,1
+Admiral Ackbar,Lando Calrissian,1
+Mon Mothma,Lando Calrissian,1
+Lando Calrissian,Ben Quadrinaros,1
+Lando Calrissian,Flight Controller,1
+Teebo,Lando Calrissian,1
+Palpatine,Lando Calrissian,1
+Walker Pilot,Lando Calrissian,1
+Salacious Crumb,Lando Calrissian,1
+EV-9D9,Lando Calrissian,1
+Republic Captain,Lando Calrissian,1
+Nien Nunb,Lando Calrissian,1
+Lando Calrissian,Bail Organa,1
+Jabba the Hutt,Lando Calrissian,1
+Shuttle Captain,Lando Calrissian,1
+Lando Calrissian,Ewoks,1
+Logray,Lando Calrissian,1
+Red Three,Lando Calrissian,1
+Lando Calrissian,Bespin Guards,1
+Lando Calrissian,Rebel Trooper,1
+Lando Calrissian,Wicket,1
+Lando Calrissian,Moff Jerjerrod,1
+Paploo,Lando Calrissian,1
+Darth Vader,General Madine,1
+R2-D2,General Madine,1
+Obi-Wan Kenobi,General Madine,1
+Admiral Ackbar,General Madine,1
+Mon Mothma,General Madine,1
+C-3PO,General Madine,1
+General Madine,Ben Quadrinaros,1
+General Madine,Flight Controller,1
+Teebo,General Madine,1
+Palpatine,General Madine,1
+Walker Pilot,General Madine,1
+Red Leader,General Madine,1
+Salacious Crumb,General Madine,1
+EV-9D9,General Madine,1
+Biggs Darklighter,General Madine,1
+Republic Captain,General Madine,1
+Nien Nunb,General Madine,1
+C-3P0,General Madine,1
+General Madine,Bail Organa,1
+Jabba the Hutt,General Madine,1
+Shuttle Captain,General Madine,1
+General Madine,Ewoks,1
+Logray,General Madine,1
+Red Three,General Madine,1
+General Madine,Bespin Guards,1
+Han Solo,General Madine,1
+General Madine,Rebel Trooper,1
+General Madine,Wicket,1
+General Madine,Moff Jerjerrod,1
+Wedge Antilles,General Madine,1
+Paploo,General Madine,1
+Darth Vader,Admiral Ackbar,1
+Darth Vader,Mon Mothma,1
+Darth Vader,Teebo,1
+Darth Vader,Walker Pilot,1
+Darth Vader,Salacious Crumb,1
+Darth Vader,EV-9D9,1
+Darth Vader,Nien Nunb,1
+Darth Vader,Jabba the Hutt,1
+Darth Vader,Shuttle Captain,1
+Darth Vader,Ewoks,1
+Darth Vader,Logray,1
+Darth Vader,Red Three,1
+Darth Vader,Bespin Guards,1
+Darth Vader,Wicket,1
+Darth Vader,Moff Jerjerrod,1
+Darth Vader,Paploo,1
+Admiral Ackbar,R2-D2,1
+Mon Mothma,R2-D2,1
+R2-D2,Flight Controller,1
+R2-D2,Teebo,1
+R2-D2,Walker Pilot,1
+Salacious Crumb,R2-D2,1
+EV-9D9,R2-D2,1
+Nien Nunb,R2-D2,1
+Shuttle Captain,R2-D2,1
+R2-D2,Ewoks,1
+R2-D2,Logray,1
+R2-D2,Red Three,1
+R2-D2,Rebel Trooper,1
+R2-D2,Wicket,1
+R2-D2,Moff Jerjerrod,1
+R2-D2,Paploo,1
+Admiral Ackbar,Obi-Wan Kenobi,1
+Mon Mothma,Obi-Wan Kenobi,1
+Obi-Wan Kenobi,Flight Controller,1
+Teebo,Obi-Wan Kenobi,1
+Obi-Wan Kenobi,Walker Pilot,1
+Salacious Crumb,Obi-Wan Kenobi,1
+EV-9D9,Obi-Wan Kenobi,1
+Nien Nunb,Obi-Wan Kenobi,1
+Jabba the Hutt,Obi-Wan Kenobi,1
+Shuttle Captain,Obi-Wan Kenobi,1
+Obi-Wan Kenobi,Ewoks,1
+Obi-Wan Kenobi,Logray,1
+Obi-Wan Kenobi,Red Three,1
+Obi-Wan Kenobi,Rebel Trooper,1
+Obi-Wan Kenobi,Wicket,1
+Obi-Wan Kenobi,Moff Jerjerrod,1
+Paploo,Obi-Wan Kenobi,1
+Mon Mothma,Admiral Ackbar,1
+Admiral Ackbar,C-3PO,1
+Admiral Ackbar,Ben Quadrinaros,1
+Admiral Ackbar,Flight Controller,1
+Admiral Ackbar,Teebo,1
+Admiral Ackbar,Palpatine,1
+Admiral Ackbar,Walker Pilot,1
+Red Leader,Admiral Ackbar,1
+Salacious Crumb,Admiral Ackbar,1
+EV-9D9,Admiral Ackbar,1
+Admiral Ackbar,Biggs Darklighter,1
+Admiral Ackbar,Republic Captain,1
+Nien Nunb,Admiral Ackbar,1
+C-3P0,Admiral Ackbar,1
+Admiral Ackbar,Bail Organa,1
+Jabba the Hutt,Admiral Ackbar,1
+Shuttle Captain,Admiral Ackbar,1
+Admiral Ackbar,Ewoks,1
+Admiral Ackbar,Logray,1
+Admiral Ackbar,Red Three,1
+Admiral Ackbar,Bespin Guards,1
+Admiral Ackbar,Han Solo,1
+Admiral Ackbar,Rebel Trooper,1
+Admiral Ackbar,Wicket,1
+Admiral Ackbar,Moff Jerjerrod,1
+Admiral Ackbar,Wedge Antilles,1
+Admiral Ackbar,Paploo,1
+Mon Mothma,C-3PO,1
+Mon Mothma,Ben Quadrinaros,1
+Mon Mothma,Flight Controller,1
+Mon Mothma,Teebo,1
+Mon Mothma,Walker Pilot,1
+Red Leader,Mon Mothma,1
+Salacious Crumb,Mon Mothma,1
+EV-9D9,Mon Mothma,1
+Mon Mothma,Biggs Darklighter,1
+Mon Mothma,Republic Captain,1
+Nien Nunb,Mon Mothma,1
+Mon Mothma,C-3P0,1
+Jabba the Hutt,Mon Mothma,1
+Mon Mothma,Shuttle Captain,1
+Mon Mothma,Ewoks,1
+Mon Mothma,Logray,1
+Mon Mothma,Red Three,1
+Mon Mothma,Bespin Guards,1
+Mon Mothma,Han Solo,1
+Mon Mothma,Rebel Trooper,1
+Mon Mothma,Wicket,1
+Mon Mothma,Moff Jerjerrod,1
+Mon Mothma,Wedge Antilles,1
+Mon Mothma,Paploo,1
+Teebo,C-3PO,1
+Walker Pilot,C-3PO,1
+Salacious Crumb,C-3PO,1
+EV-9D9,C-3PO,1
+Republic Captain,C-3PO,1
+Nien Nunb,C-3PO,1
+Jabba the Hutt,C-3PO,1
+Shuttle Captain,C-3PO,1
+C-3PO,Ewoks,1
+Logray,C-3PO,1
+Red Three,C-3PO,1
+C-3PO,Bespin Guards,1
+C-3PO,Rebel Trooper,1
+C-3PO,Wicket,1
+C-3PO,Moff Jerjerrod,1
+Paploo,C-3PO,1
+Ben Quadrinaros,Flight Controller,1
+Teebo,Ben Quadrinaros,1
+Palpatine,Ben Quadrinaros,1
+Walker Pilot,Ben Quadrinaros,1
+Red Leader,Ben Quadrinaros,1
+Salacious Crumb,Ben Quadrinaros,1
+EV-9D9,Ben Quadrinaros,1
+Republic Captain,Ben Quadrinaros,1
+Nien Nunb,Ben Quadrinaros,1
+Ben Quadrinaros,Bail Organa,1
+Jabba the Hutt,Ben Quadrinaros,1
+Shuttle Captain,Ben Quadrinaros,1
+Ewoks,Ben Quadrinaros,1
+Logray,Ben Quadrinaros,1
+Red Three,Ben Quadrinaros,1
+Bespin Guards,Ben Quadrinaros,1
+Rebel Trooper,Ben Quadrinaros,1
+Wicket,Ben Quadrinaros,1
+Ben Quadrinaros,Moff Jerjerrod,1
+Wedge Antilles,Ben Quadrinaros,1
+Paploo,Ben Quadrinaros,1
+Teebo,Flight Controller,1
+Palpatine,Flight Controller,1
+Walker Pilot,Flight Controller,1
+Red Leader,Flight Controller,1
+Salacious Crumb,Flight Controller,1
+EV-9D9,Flight Controller,1
+Biggs Darklighter,Flight Controller,1
+Nien Nunb,Flight Controller,1
+Bail Organa,Flight Controller,1
+Jabba the Hutt,Flight Controller,1
+Shuttle Captain,Flight Controller,1
+Ewoks,Flight Controller,1
+Logray,Flight Controller,1
+Red Three,Flight Controller,1
+Bespin Guards,Flight Controller,1
+Rebel Trooper,Flight Controller,1
+Wicket,Flight Controller,1
+Moff Jerjerrod,Flight Controller,1
+Wedge Antilles,Flight Controller,1
+Paploo,Flight Controller,1
+Teebo,Palpatine,1
+Teebo,Walker Pilot,1
+Red Leader,Teebo,1
+Salacious Crumb,Teebo,1
+EV-9D9,Teebo,1
+Teebo,Biggs Darklighter,1
+Teebo,Republic Captain,1
+Nien Nunb,Teebo,1
+C-3P0,Teebo,1
+Teebo,Bail Organa,1
+Jabba the Hutt,Teebo,1
+Shuttle Captain,Teebo,1
+Teebo,Ewoks,1
+Teebo,Logray,1
+Teebo,Red Three,1
+Teebo,Bespin Guards,1
+Teebo,Han Solo,1
+Teebo,Rebel Trooper,1
+Teebo,Wicket,1
+Teebo,Moff Jerjerrod,1
+Teebo,Wedge Antilles,1
+Teebo,Paploo,1
+Palpatine,Walker Pilot,1
+Red Leader,Palpatine,1
+Salacious Crumb,Palpatine,1
+EV-9D9,Palpatine,1
+Biggs Darklighter,Palpatine,1
+Nien Nunb,Palpatine,1
+Jabba the Hutt,Palpatine,1
+Shuttle Captain,Palpatine,1
+Palpatine,Ewoks,1
+Logray,Palpatine,1
+Palpatine,Red Three,1
+Palpatine,Han Solo,1
+Palpatine,Rebel Trooper,1
+Palpatine,Wicket,1
+Palpatine,Moff Jerjerrod,1
+Wedge Antilles,Palpatine,1
+Paploo,Palpatine,1
+Red Leader,Walker Pilot,1
+Salacious Crumb,Walker Pilot,1
+EV-9D9,Walker Pilot,1
+Biggs Darklighter,Walker Pilot,1
+Republic Captain,Walker Pilot,1
+Nien Nunb,Walker Pilot,1
+C-3P0,Walker Pilot,1
+Walker Pilot,Bail Organa,1
+Jabba the Hutt,Walker Pilot,1
+Shuttle Captain,Walker Pilot,1
+Walker Pilot,Ewoks,1
+Logray,Walker Pilot,1
+Red Three,Walker Pilot,1
+Walker Pilot,Bespin Guards,1
+Han Solo,Walker Pilot,1
+Walker Pilot,Rebel Trooper,1
+Walker Pilot,Wicket,1
+Walker Pilot,Moff Jerjerrod,1
+Wedge Antilles,Walker Pilot,1
+Paploo,Walker Pilot,1
+Salacious Crumb,Red Leader,1
+EV-9D9,Red Leader,1
+Red Leader,Republic Captain,1
+Nien Nunb,Red Leader,1
+Red Leader,Bail Organa,1
+Jabba the Hutt,Red Leader,1
+Red Leader,Shuttle Captain,1
+Red Leader,Ewoks,1
+Red Leader,Logray,1
+Red Leader,Bespin Guards,1
+Red Leader,Rebel Trooper,1
+Red Leader,Wicket,1
+Red Leader,Moff Jerjerrod,1
+Red Leader,Paploo,1
+Salacious Crumb,EV-9D9,1
+Salacious Crumb,Biggs Darklighter,1
+Salacious Crumb,Republic Captain,1
+Salacious Crumb,Nien Nunb,1
+Salacious Crumb,C-3P0,1
+Salacious Crumb,Bail Organa,1
+Salacious Crumb,Jabba the Hutt,1
+Salacious Crumb,Shuttle Captain,1
+Salacious Crumb,Ewoks,1
+Salacious Crumb,Logray,1
+Salacious Crumb,Red Three,1
+Salacious Crumb,Bespin Guards,1
+Salacious Crumb,Han Solo,1
+Salacious Crumb,Rebel Trooper,1
+Salacious Crumb,Wicket,1
+Salacious Crumb,Moff Jerjerrod,1
+Salacious Crumb,Wedge Antilles,1
+Salacious Crumb,Paploo,1
+EV-9D9,Biggs Darklighter,1
+EV-9D9,Republic Captain,1
+Nien Nunb,EV-9D9,1
+EV-9D9,C-3P0,1
+EV-9D9,Bail Organa,1
+Jabba the Hutt,EV-9D9,1
+EV-9D9,Shuttle Captain,1
+EV-9D9,Ewoks,1
+EV-9D9,Logray,1
+EV-9D9,Red Three,1
+EV-9D9,Bespin Guards,1
+EV-9D9,Han Solo,1
+EV-9D9,Rebel Trooper,1
+EV-9D9,Wicket,1
+EV-9D9,Moff Jerjerrod,1
+EV-9D9,Wedge Antilles,1
+EV-9D9,Paploo,1
+Biggs Darklighter,Republic Captain,1
+Nien Nunb,Biggs Darklighter,1
+Biggs Darklighter,Bail Organa,1
+Jabba the Hutt,Biggs Darklighter,1
+Shuttle Captain,Biggs Darklighter,1
+Biggs Darklighter,Ewoks,1
+Biggs Darklighter,Logray,1
+Biggs Darklighter,Bespin Guards,1
+Biggs Darklighter,Rebel Trooper,1
+Biggs Darklighter,Wicket,1
+Biggs Darklighter,Moff Jerjerrod,1
+Paploo,Biggs Darklighter,1
+Nien Nunb,Republic Captain,1
+C-3P0,Republic Captain,1
+Republic Captain,Bail Organa,1
+Jabba the Hutt,Republic Captain,1
+Shuttle Captain,Republic Captain,1
+Republic Captain,Ewoks,1
+Logray,Republic Captain,1
+Republic Captain,Red Three,1
+Republic Captain,Han Solo,1
+Republic Captain,Wicket,1
+Republic Captain,Moff Jerjerrod,1
+Wedge Antilles,Republic Captain,1
+Paploo,Republic Captain,1
+Nien Nunb,C-3P0,1
+Nien Nunb,Bail Organa,1
+Nien Nunb,Jabba the Hutt,1
+Nien Nunb,Shuttle Captain,1
+Nien Nunb,Ewoks,1
+Nien Nunb,Logray,1
+Nien Nunb,Red Three,1
+Nien Nunb,Bespin Guards,1
+Nien Nunb,Han Solo,1
+Nien Nunb,Rebel Trooper,1
+Nien Nunb,Wicket,1
+Nien Nunb,Moff Jerjerrod,1
+Nien Nunb,Wedge Antilles,1
+Nien Nunb,Paploo,1
+Jabba the Hutt,C-3P0,1
+Shuttle Captain,C-3P0,1
+C-3P0,Ewoks,1
+C-3P0,Logray,1
+C-3P0,Red Three,1
+C-3P0,Bespin Guards,1
+C-3P0,Rebel Trooper,1
+C-3P0,Wicket,1
+C-3P0,Moff Jerjerrod,1
+C-3P0,Paploo,1
+Jabba the Hutt,Bail Organa,1
+Shuttle Captain,Bail Organa,1
+Ewoks,Bail Organa,1
+Logray,Bail Organa,1
+Red Three,Bail Organa,1
+Han Solo,Bail Organa,1
+Rebel Trooper,Bail Organa,1
+Wicket,Bail Organa,1
+Moff Jerjerrod,Bail Organa,1
+Wedge Antilles,Bail Organa,1
+Paploo,Bail Organa,1
+Jabba the Hutt,Shuttle Captain,1
+Jabba the Hutt,Ewoks,1
+Jabba the Hutt,Logray,1
+Jabba the Hutt,Red Three,1
+Jabba the Hutt,Bespin Guards,1
+Jabba the Hutt,Rebel Trooper,1
+Jabba the Hutt,Wicket,1
+Jabba the Hutt,Moff Jerjerrod,1
+Jabba the Hutt,Wedge Antilles,1
+Jabba the Hutt,Paploo,1
+Shuttle Captain,Ewoks,1
+Shuttle Captain,Logray,1
+Shuttle Captain,Red Three,1
+Shuttle Captain,Bespin Guards,1
+Shuttle Captain,Han Solo,1
+Shuttle Captain,Rebel Trooper,1
+Shuttle Captain,Wicket,1
+Shuttle Captain,Moff Jerjerrod,1
+Shuttle Captain,Wedge Antilles,1
+Shuttle Captain,Paploo,1
+Logray,Ewoks,1
+Red Three,Ewoks,1
+Bespin Guards,Ewoks,1
+Han Solo,Ewoks,1
+Rebel Trooper,Ewoks,1
+Wicket,Ewoks,1
+Ewoks,Moff Jerjerrod,1
+Wedge Antilles,Ewoks,1
+Paploo,Ewoks,1
+Logray,Red Three,1
+Logray,Bespin Guards,1
+Logray,Han Solo,1
+Logray,Rebel Trooper,1
+Logray,Wicket,1
+Logray,Moff Jerjerrod,1
+Logray,Wedge Antilles,1
+Paploo,Logray,1
+Red Three,Bespin Guards,1
+Han Solo,Red Three,1
+Red Three,Rebel Trooper,1
+Red Three,Wicket,1
+Red Three,Moff Jerjerrod,1
+Paploo,Red Three,1
+Han Solo,Bespin Guards,1
+Rebel Trooper,Bespin Guards,1
+Wicket,Bespin Guards,1
+Bespin Guards,Moff Jerjerrod,1
+Wedge Antilles,Bespin Guards,1
+Paploo,Bespin Guards,1
+Han Solo,Rebel Trooper,1
+Han Solo,Wicket,1
+Han Solo,Moff Jerjerrod,1
+Paploo,Han Solo,1
+Rebel Trooper,Wicket,1
+Rebel Trooper,Moff Jerjerrod,1
+Wedge Antilles,Rebel Trooper,1
+Paploo,Rebel Trooper,1
+Wicket,Moff Jerjerrod,1
+Wedge Antilles,Wicket,1
+Paploo,Wicket,1
+Wedge Antilles,Moff Jerjerrod,1
+Paploo,Moff Jerjerrod,1
+Paploo,Wedge Antilles,1

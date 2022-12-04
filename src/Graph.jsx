@@ -30,7 +30,7 @@ useEffect(() => {
 
 
 
-    d3.csv('./occurrences.csv')
+    d3.csv('./occs.csv')
     .then(text  => {
       setLinks(text)
       d3.csv('./characters.csv')
@@ -142,14 +142,14 @@ useEffect(() => {
     .selectAll("line")
     .data(links)
     .join("line")
-      .attr("stroke", "rgba(211,211,211, 1)")
+      .attr("stroke", "rgba(211,211,211, 0.8)")
       .attr("width", 0.8)
-      //.attr("stroke-opacity", d => (d.width/props.maxWidth)+props.minOpacity)
-      //.attr("stroke-width", function(d) { return (d.width+(0.2)); });
+      .attr("stroke-opacity", 0.7)
+      .attr("stroke-width", function(d) { return (d.width+(0.2)); });
 
 
     node.append("circle")
-    .attr("r", 8)
+    .attr("r", d => (d.count / d3.max(nodes, d=>d.count)*20))
     .attr("fill", d => ("rgba(70,130,180,0.8)")) // rgba is steelblue at 80% opacity
     .call(d3.drag()
       .on("start", dragstarted)
