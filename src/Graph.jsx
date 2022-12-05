@@ -48,7 +48,10 @@ height = 400 - (margin.top+margin.bottom);
         return linkMatrix[sel.id].includes(d) || sel.id === d.id ? 1 : 0.2
       })
 
-      node.attr("stroke", d => d.id === sel.id ? "red" : "black")
+      node.attr("stroke", d => {
+        return linkMatrix[sel.id].includes(d) || sel.id === d.id ? "red" : "black"
+      })
+      
       node.attr("stroke-width", d => d.id === sel.id ? 2 : 0.5)
 
     } else {

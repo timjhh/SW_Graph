@@ -1,79 +1,75 @@
 id,count
-Qui-Gon Jinn,76
 Nute Gunray,29
 Republic Captain,16
 Rebel Pilot,20
-Battle Droid,102
-Yoda,66
+Qui-Gon Jinn,76
+Battle Droid,82
 Obi-Wan Kenobi,255
+Yoda,66
 Dofine,2
 Rune,16
 Tey How,3
 Chancellor Valorum,5
-Sache,5
-Queen,43
-Padme Amidala,151
 Eirtae,19
+Padme Amidala,156
 Yane,4
 Rabe,14
+Sache,5
+Captain Panaka,33
 Palpatine,94
 Sio Bibble,12
-Captain Panaka,33
 Jar Jar Binks,69
-Captain Tarpals,2
-Bespin Guards,32
 Gungan Warrior,10
+Captain Tarpals,2
 Count Dooku,32
 Boss Nass,5
-Princess Leia,99
 Queen Jamillia,9
 Ric Olie,12
 Darth Vader,97
 Darth Maul,18
 R2-D2,156
-Anakin Skywalker,234
 Gardulla,1
 Watto,14
 Luke Skywalker,220
+Anakin Skywalker,234
 Sebulba,10
 Jabba the Hutt,9
 Jira,2
-Shmi,22
+Shmi,18
 C-3PO,122
-Seek,1
 Wald,2
-Amee,1
+Seek,1
 Kitster,10
+Amee,1
 Fode/Beed,10
 Gasgano,2
 Boles Roor,1
 Ody Mandrell,3
-Mawhonic,1
 Tusken Raider,6
+Mawhonic,1
 Fanta,2
 Xelbree,1
-Ben Quadrinaros,37
+Ben Quadrinaros,1
 Terter,1
 Sith Probe Droid,6
 Greedo,2
 Mace Windu,26
-Aks Moe,1
 Mas Amedda,12
-Bail Organa,33
+Bail Organa,32
 Lott Dod,1
-Stormtrooper,26
+Aks Moe,1
 Destroyer Droids,9
 Bravo Two,4
 Bravo Three,2
 Rune Haako,4
-Dorme,7
 Captain Typho,11
 Corde,1
+Dorme,7
+Ask Aak,2
 Darsana,1
 Orn Free Taa,3
-Ask Aak,2
-Plo Koon,7
 Dar Wac,2
+Plo Koon,7
 Zam Wessel,4
 Elan Sleazebaggano,1
 Dexter Jettster,1
@@ -81,46 +77,47 @@ Jocasta Nu,1
 Ryoo,1
 Pooja,1
 Jobal,2
-Ruwee,3
 Sola,2
-Jedi Child May,1
+Ruwee,3
 Jedi Child Jack,1
+Jedi Child May,1
 Taun We,9
-Lama Su,7
 Sifo-Dyas,1
-Clone Troopers,30
+Lama Su,7
+Stormtrooper,2
 Jango Fett,14
+Clone Troopers,30
 Boba Fett,22
-Cliegg Lars,4
 Owen Lars,16
+Cliegg Lars,4
 Beru Lars,12
 Jawa,3
 Geonosian,6
-Poggle the Lesser,2
-Passel Argente,2
 Wat Tambor,4
 Sun Rit,2
-Tessek,1
-San Hill,1
-Toonbuck Toora,1
+Passel Argente,2
 Shu Mai,4
+Toonbuck Toora,1
+San Hill,1
+Tessek,1
+Poggle the Lesser,2
 R4-D17,2
-Red Leader,42
 Odd Ball,3
 Wedge Antilles,69
-Clone Pilot,2
+Red Leader,42
 Buzz Droid,1
+Clone Pilot,2
 General Grievous,26
 Bodyguard,4
 Master Vos,2
+Giddean Danu,2
 Fang Zar,3
 Mon Mothma,3
 Terr Taneel,1
-Giddean Danu,2
 Motee,1
 Darth Plagueis,1
-Baron Papanoida,1
 Agen Kolar,2
+Baron Papanoida,1
 Clone Commander Gree,3
 Chi Eekway,1
 Bana Breemu,1
@@ -138,31 +135,32 @@ Stass Allie,1
 Tarfful,3
 Chewbacca,66
 Shaak Ti,1
-Clone Commander Appo,1
 Zett Jukassa,1
+Clone Commander Appo,1
 Ponda Babba,4
 Royal Guards,1
 Captain Antilles,3
 Clone Commander Thire,1
 Worker Droid,1
 Medical Droid,4
+Princess Leia,91
 Tarkin,11
 Rebel Trooper,9
 Imperial Officer,4
 Rebel Officer,2
+Biggs Darklighter,27
+Wormie,1
 Windy,1
 Camie,2
-Biggs Darklighter,27
 Deak,2
-Wormie,1
 Fixer,3
 Commander Tagge,1
 Admiral Motti,2
 Doctor Evezan,1
 Bartender,1
 Han Solo,117
-General Dodonna,7
 Lando Calrissian,48
+General Dodonna,7
 Red Ten,8
 Red Seven,1
 Red Nine,1
@@ -184,21 +182,21 @@ Janson,4
 Captain Needa,4
 Zuckuss,1
 Lobot,2
-Green Leader,1
-Oola,1
-Bib Fortuna,1
-Red Two,1
+Wicket,1
 Chief Chirpa,1
+Moff Jerjerrod,1
 General Madine,1
-Admiral Ackbar,1
 Teebo,1
+Nien Nunb,1
+Red Two,1
+Green Leader,1
 Walker Pilot,1
+Ewoks,1
+Bib Fortuna,1
+Oola,1
+Shuttle Captain,1
 Salacious Crumb,1
 EV-9D9,1
-Nien Nunb,1
-Shuttle Captain,1
-Ewoks,1
-Logray,1
-Wicket,1
-Moff Jerjerrod,1
+Admiral Ackbar,1
 Paploo,1
+Logray,1
