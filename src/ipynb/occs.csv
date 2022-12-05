@@ -268,14 +268,8 @@ Shmi,Jar Jar Binks,11
 Shmi,Luke Skywalker,4
 R2-D2,Shmi,10
 Padme Amidala,Shmi,17
-C-3P0,Shmi,3
 Shmi,C-3PO,3
 Shmi,Battle Droid,3
-C-3P0,Anakin Skywalker,17
-C-3P0,C-3PO,122
-C-3P0,R2-D2,59
-C-3P0,Battle Droid,3
-C-3P0,Padme Amidala,19
 C-3PO,Anakin Skywalker,17
 R2-D2,C-3PO,59
 Battle Droid,C-3PO,3
@@ -318,16 +312,11 @@ Obi-Wan Kenobi,Luke Skywalker,41
 Yoda,Shmi,1
 Darth Maul,Battle Droid,5
 Watto,Kitster,4
-C-3P0,Qui-Gon Jinn,1
 Qui-Gon Jinn,C-3PO,1
 Sebulba,Shmi,4
-Sebulba,C-3P0,1
 Sebulba,C-3PO,1
 Sebulba,Kitster,4
 Shmi,Kitster,6
-C-3P0,Watto,1
-C-3P0,Jar Jar Binks,2
-C-3P0,Kitster,2
 Watto,C-3PO,1
 C-3PO,Jar Jar Binks,2
 C-3PO,Kitster,2
@@ -831,25 +820,21 @@ Yoda,Boba Fett,3
 Anakin Skywalker,Cliegg Lars,3
 Owen Lars,Anakin Skywalker,5
 Anakin Skywalker,Beru Lars,3
-Shmi,Cliegg Lars,1
-Owen Lars,Cliegg Lars,3
-Beru Lars,Cliegg Lars,4
-C-3P0,Cliegg Lars,2
 C-3PO,Cliegg Lars,2
-Padme Amidala,Cliegg Lars,3
-Owen Lars,Shmi,1
-Shmi,Beru Lars,1
-Owen Lars,Beru Lars,9
-C-3P0,Owen Lars,8
 Owen Lars,C-3PO,8
-Padme Amidala,Owen Lars,5
-C-3P0,Beru Lars,5
 C-3PO,Beru Lars,5
+Owen Lars,Cliegg Lars,3
+Padme Amidala,Cliegg Lars,3
+Shmi,Cliegg Lars,1
+Beru Lars,Cliegg Lars,4
+Padme Amidala,Owen Lars,5
+Shmi,Owen Lars,1
+Owen Lars,Beru Lars,9
 Padme Amidala,Beru Lars,4
+Shmi,Beru Lars,1
 Beru Lars,Tusken Raider,1
 Tusken Raider,Cliegg Lars,1
 Anakin Skywalker,Jawa,1
-C-3P0,Padme,4
 Padme,C-3PO,4
 Tusken Raider,Bespin Guards,1
 Darth Vader,Mace Windu,2
@@ -876,15 +861,12 @@ Padme,Jango Fett,1
 Palpatine,Jango Fett,2
 Owen Lars,Padme,1
 Padme,Beru Lars,1
-Count Dooku,C-3P0,4
 Count Dooku,C-3PO,4
 Count Dooku,R2-D2,5
-C-3P0,Obi-Wan Kenobi,20
 Obi-Wan Kenobi,C-3PO,20
 R2-D2,Cliegg Lars,1
 R2-D2,Owen Lars,3
 R2-D2,Beru Lars,3
-C-3P0,Mace Windu,3
 C-3PO,Mace Windu,3
 R2-D2,Mace Windu,3
 Count Dooku,Geonosian,5
@@ -1074,13 +1056,10 @@ Palpatine,Bodyguard,1
 Rebel Pilot,Palpatine,4
 General Grievous,Mace Windu,4
 Anakin Skywalker,Bail Organa,4
-C-3P0,General Grievous,1
 C-3PO,General Grievous,1
 General Grievous,Jar Jar Binks,1
 General Grievous,Bail Organa,1
 R2-D2,Bail Organa,6
-C-3P0,Bail Organa,6
-C-3P0,Palpatine,3
 C-3PO,Bail Organa,6
 Palpatine,C-3PO,3
 Padme Amidala,Bail Organa,8
@@ -1253,7 +1232,6 @@ Clone Troopers,Ponda Babba,1
 Royal Guards,Bespin Guards,1
 Royal Guards,Bail Organa,1
 Captain Antilles,Bail Organa,2
-Captain Typho,C-3P0,2
 Captain Typho,C-3PO,2
 Rebel Pilot,Bail Organa,2
 Yoda,Rebel Pilot,2
@@ -1282,19 +1260,16 @@ Worker Droid,Battle Droid,1
 Worker Droid,Palpatine,1
 Worker Droid,Obi-Wan Kenobi,1
 Qui-Gon Jinn,Bail Organa,1
-Yoda,C-3P0,4
 Yoda,C-3PO,4
 Yoda,R2-D2,9
 Yoda,Medical Droid,2
 Medical Droid,R2-D2,2
 Medical Droid,Obi-Wan Kenobi,2
 Medical Droid,Battle Droid,4
-Medical Droid,C-3P0,2
 Medical Droid,C-3PO,2
 Medical Droid,Bail Organa,2
 Medical Droid,Padme Amidala,3
 Yoda,Princess Leia,3
-C-3P0,Princess Leia,42
 C-3PO,Princess Leia,42
 Bail Organa,Princess Leia,2
 Medical Droid,Princess Leia,1
@@ -1302,9 +1277,8 @@ Medical Droid,Anakin Skywalker,1
 Medical Droid,Darth Vader,1
 Medical Droid,Palpatine,1
 Darth Vader,Battle Droid,1
-C-3P0,Captain Antilles,2
-Captain Antilles,C-3PO,2
 R2-D2,Captain Antilles,2
+Captain Antilles,C-3PO,2
 Darth Vader,Tarkin,8
 Tarkin,Palpatine,1
 Owen Lars,Obi-Wan Kenobi,3
@@ -1340,8 +1314,6 @@ Owen Lars,Deak,1
 Owen Lars,Luke Skywalker,9
 Fixer,Owen Lars,1
 Biggs Darklighter,Owen Lars,3
-C-3P0,Luke Skywalker,34
-C-3P0,Jawa,1
 C-3PO,Luke Skywalker,34
 C-3PO,Jawa,1
 Jawa,Luke Skywalker,2
@@ -1357,7 +1329,6 @@ R2-D2,Biggs Darklighter,3
 Biggs Darklighter,Obi-Wan Kenobi,3
 Obi-Wan Kenobi,Captain Antilles,1
 Biggs Darklighter,Beru Lars,2
-C-3P0,Biggs Darklighter,4
 Biggs Darklighter,Captain Antilles,1
 Biggs Darklighter,C-3PO,4
 Captain Antilles,Beru Lars,1
@@ -1367,16 +1338,13 @@ Biggs Darklighter,Ben Quadrinaros,2
 Owen Lars,Ben Quadrinaros,2
 Obi-Wan Kenobi,Ben Quadrinaros,36
 Beru Lars,Ben Quadrinaros,1
-C-3P0,Tusken Raider,1
 C-3PO,Tusken Raider,1
 Tusken Raider,Luke Skywalker,2
-C-3P0,Ben Quadrinaros,9
 C-3PO,Ben Quadrinaros,9
-Ben Quadrinaros,Princess Leia,6
-Darth Vader,R2-D2,4
-Darth Vader,C-3P0,4
 Darth Vader,C-3PO,4
+Ben Quadrinaros,Princess Leia,6
 Darth Vader,Ben Quadrinaros,5
+Darth Vader,R2-D2,4
 Darth Vader,Commander Tagge,1
 Darth Vader,Admiral Motti,2
 Commander Tagge,Admiral Motti,1
@@ -1388,24 +1356,21 @@ Obi-Wan Kenobi,Jawa,1
 Tusken Raider,Jawa,1
 R2-D2,Tusken Raider,1
 Obi-Wan Kenobi,Tusken Raider,1
-Obi-Wan Kenobi,Doctor Evezan,1
-C-3P0,Doctor Evezan,1
-Bartender,Doctor Evezan,1
-Ponda Babba,Doctor Evezan,1
-C-3PO,Doctor Evezan,1
-Ben Quadrinaros,Doctor Evezan,1
-Luke Skywalker,Doctor Evezan,1
-Obi-Wan Kenobi,Bartender,1
-Obi-Wan Kenobi,Ponda Babba,2
-C-3P0,Bartender,1
-C-3P0,Ponda Babba,1
 Bartender,Ponda Babba,1
 Bartender,C-3PO,1
 Bartender,Ben Quadrinaros,1
+Bartender,Doctor Evezan,1
 Bartender,Luke Skywalker,1
+Bartender,Obi-Wan Kenobi,1
 Ponda Babba,C-3PO,1
 Ponda Babba,Ben Quadrinaros,2
+Ponda Babba,Doctor Evezan,1
 Ponda Babba,Luke Skywalker,3
+Obi-Wan Kenobi,Ponda Babba,2
+C-3PO,Doctor Evezan,1
+Ben Quadrinaros,Doctor Evezan,1
+Luke Skywalker,Doctor Evezan,1
+Obi-Wan Kenobi,Doctor Evezan,1
 Chewbacca,Ben Quadrinaros,9
 Chewbacca,Luke Skywalker,28
 Chewbacca,Obi-Wan Kenobi,9
@@ -1417,14 +1382,12 @@ Jabba the Hutt,Greedo,1
 Jabba the Hutt,Han Solo,3
 Greedo,Han Solo,1
 Tarkin,Imperial Officer,1
-C-3P0,Han Solo,43
 Han Solo,C-3PO,43
 R2-D2,Han Solo,14
 Admiral Motti,Princess Leia,1
 Tarkin,Princess Leia,1
-Chewbacca,R2-D2,11
-Chewbacca,C-3P0,35
 Chewbacca,C-3PO,35
+Chewbacca,R2-D2,11
 Stormtrooper,Han Solo,2
 Tarkin,Obi-Wan Kenobi,1
 Chewbacca,Princess Leia,39
@@ -1447,17 +1410,14 @@ Red Leader,Princess Leia,3
 Red Leader,R2-D2,2
 Red Leader,Biggs Darklighter,4
 Red Leader,Han Solo,2
-Red Leader,C-3P0,3
 Red Leader,C-3PO,3
 Red Leader,Luke Skywalker,6
 R2-D2,General Dodonna,1
 Biggs Darklighter,General Dodonna,3
-C-3P0,General Dodonna,1
 C-3PO,General Dodonna,1
 R2-D2,Wedge Antilles,3
 Biggs Darklighter,Han Solo,2
 Biggs Darklighter,Wedge Antilles,7
-C-3P0,Wedge Antilles,4
 Wedge Antilles,C-3PO,4
 Red Seven,Biggs Darklighter,1
 Red Nine,Porkins,1
@@ -1491,18 +1451,15 @@ Han Solo,Anakin Skywalker,5
 Queen Jamillia,Luke Skywalker,1
 Han Solo,Queen Jamillia,1
 Chewbacca,Anakin Skywalker,4
-Major Derlin,Anakin Skywalker,1
-Major Derlin,Princess Leia,2
-R2-D2,Major Derlin,1
 Chewbacca,Major Derlin,1
-C-3P0,Major Derlin,1
+Major Derlin,Anakin Skywalker,1
 Major Derlin,C-3PO,1
+Major Derlin,Princess Leia,2
 Major Derlin,Luke Skywalker,1
+R2-D2,Major Derlin,1
 Han Solo,Zev,2
-General Rieekan,C-3P0,1
 General Rieekan,C-3PO,1
 General Rieekan,Flight Controller,2
-C-3P0,Flight Controller,3
 C-3PO,Flight Controller,3
 Luke Skywalker,Flight Controller,2
 Flight Controller,Princess Leia,3
@@ -1543,10 +1500,8 @@ Darth Vader,Flight Controller,2
 Boba Fett,Flight Controller,2
 Darth Vader,Boba Fett,6
 Chewbacca,Lando Calrissian,19
-C-3P0,Lando Calrissian,14
 C-3PO,Lando Calrissian,14
 Chewbacca,Lobot,2
-Lobot,C-3P0,2
 Lobot,Lando Calrissian,2
 Lobot,C-3PO,2
 Lobot,Princess Leia,2
@@ -1565,11 +1520,9 @@ Imperial Officer,Princess Leia,1
 Boba Fett,Imperial Officer,1
 Imperial Officer,Han Solo,1
 Chewbacca,Imperial Officer,1
-C-3P0,Imperial Officer,1
 Imperial Officer,C-3PO,1
 Imperial Officer,Luke Skywalker,1
 Chewbacca,Boba Fett,3
-Boba Fett,C-3P0,3
 Boba Fett,C-3PO,3
 R2-D2,Lando Calrissian,5
 Boba Fett,R2-D2,3
@@ -1605,7 +1558,6 @@ Green Leader,EV-9D9,1
 Green Leader,Biggs Darklighter,1
 Green Leader,Republic Captain,1
 Green Leader,Nien Nunb,1
-Green Leader,C-3P0,1
 Green Leader,Bail Organa,1
 Green Leader,Jabba the Hutt,1
 Green Leader,Shuttle Captain,1
@@ -1650,7 +1602,6 @@ EV-9D9,Oola,1
 Biggs Darklighter,Oola,1
 Republic Captain,Oola,1
 Nien Nunb,Oola,1
-C-3P0,Oola,1
 Oola,Bail Organa,1
 Jabba the Hutt,Oola,1
 Shuttle Captain,Oola,1
@@ -1800,7 +1751,6 @@ EV-9D9,Bib Fortuna,1
 Biggs Darklighter,Bib Fortuna,1
 Republic Captain,Bib Fortuna,1
 Nien Nunb,Bib Fortuna,1
-C-3P0,Bib Fortuna,1
 Bib Fortuna,Bail Organa,1
 Jabba the Hutt,Bib Fortuna,1
 Shuttle Captain,Bib Fortuna,1
@@ -1839,7 +1789,6 @@ EV-9D9,Red Two,1
 Biggs Darklighter,Red Two,1
 Red Two,Republic Captain,1
 Nien Nunb,Red Two,1
-C-3P0,Red Two,1
 Red Two,Bail Organa,1
 Jabba the Hutt,Red Two,1
 Shuttle Captain,Red Two,1
@@ -1904,7 +1853,6 @@ Chief Chirpa,EV-9D9,1
 Chief Chirpa,Biggs Darklighter,1
 Chief Chirpa,Republic Captain,1
 Chief Chirpa,Nien Nunb,1
-Chief Chirpa,C-3P0,1
 Chief Chirpa,Bail Organa,1
 Chief Chirpa,Jabba the Hutt,1
 Chief Chirpa,Shuttle Captain,1
@@ -1935,7 +1883,6 @@ Salacious Crumb,Rebel Pilot,1
 EV-9D9,Rebel Pilot,1
 Biggs Darklighter,Rebel Pilot,1
 Nien Nunb,Rebel Pilot,1
-C-3P0,Rebel Pilot,1
 Jabba the Hutt,Rebel Pilot,1
 Shuttle Captain,Rebel Pilot,1
 Rebel Pilot,Ewoks,1
@@ -1965,7 +1912,6 @@ Salacious Crumb,Admiral Piett,1
 EV-9D9,Admiral Piett,1
 Biggs Darklighter,Admiral Piett,1
 Nien Nunb,Admiral Piett,1
-C-3P0,Admiral Piett,1
 Admiral Piett,Bail Organa,1
 Jabba the Hutt,Admiral Piett,1
 Shuttle Captain,Admiral Piett,1
@@ -2058,7 +2004,6 @@ EV-9D9,General Madine,1
 Biggs Darklighter,General Madine,1
 Republic Captain,General Madine,1
 Nien Nunb,General Madine,1
-C-3P0,General Madine,1
 General Madine,Bail Organa,1
 Jabba the Hutt,General Madine,1
 Shuttle Captain,General Madine,1
@@ -2134,7 +2079,6 @@ EV-9D9,Admiral Ackbar,1
 Admiral Ackbar,Biggs Darklighter,1
 Admiral Ackbar,Republic Captain,1
 Nien Nunb,Admiral Ackbar,1
-C-3P0,Admiral Ackbar,1
 Admiral Ackbar,Bail Organa,1
 Jabba the Hutt,Admiral Ackbar,1
 Shuttle Captain,Admiral Ackbar,1
@@ -2159,7 +2103,6 @@ EV-9D9,Mon Mothma,1
 Mon Mothma,Biggs Darklighter,1
 Mon Mothma,Republic Captain,1
 Nien Nunb,Mon Mothma,1
-Mon Mothma,C-3P0,1
 Jabba the Hutt,Mon Mothma,1
 Mon Mothma,Shuttle Captain,1
 Mon Mothma,Ewoks,1
@@ -2237,7 +2180,6 @@ EV-9D9,Teebo,1
 Teebo,Biggs Darklighter,1
 Teebo,Republic Captain,1
 Nien Nunb,Teebo,1
-C-3P0,Teebo,1
 Teebo,Bail Organa,1
 Jabba the Hutt,Teebo,1
 Shuttle Captain,Teebo,1
@@ -2274,7 +2216,6 @@ EV-9D9,Walker Pilot,1
 Biggs Darklighter,Walker Pilot,1
 Republic Captain,Walker Pilot,1
 Nien Nunb,Walker Pilot,1
-C-3P0,Walker Pilot,1
 Walker Pilot,Bail Organa,1
 Jabba the Hutt,Walker Pilot,1
 Shuttle Captain,Walker Pilot,1
@@ -2306,7 +2247,6 @@ Salacious Crumb,EV-9D9,1
 Salacious Crumb,Biggs Darklighter,1
 Salacious Crumb,Republic Captain,1
 Salacious Crumb,Nien Nunb,1
-Salacious Crumb,C-3P0,1
 Salacious Crumb,Bail Organa,1
 Salacious Crumb,Jabba the Hutt,1
 Salacious Crumb,Shuttle Captain,1
@@ -2323,7 +2263,6 @@ Salacious Crumb,Paploo,1
 EV-9D9,Biggs Darklighter,1
 EV-9D9,Republic Captain,1
 Nien Nunb,EV-9D9,1
-EV-9D9,C-3P0,1
 EV-9D9,Bail Organa,1
 Jabba the Hutt,EV-9D9,1
 EV-9D9,Shuttle Captain,1
@@ -2350,7 +2289,6 @@ Biggs Darklighter,Wicket,1
 Biggs Darklighter,Moff Jerjerrod,1
 Paploo,Biggs Darklighter,1
 Nien Nunb,Republic Captain,1
-C-3P0,Republic Captain,1
 Republic Captain,Bail Organa,1
 Jabba the Hutt,Republic Captain,1
 Shuttle Captain,Republic Captain,1
@@ -2362,7 +2300,6 @@ Republic Captain,Wicket,1
 Republic Captain,Moff Jerjerrod,1
 Wedge Antilles,Republic Captain,1
 Paploo,Republic Captain,1
-Nien Nunb,C-3P0,1
 Nien Nunb,Bail Organa,1
 Nien Nunb,Jabba the Hutt,1
 Nien Nunb,Shuttle Captain,1
@@ -2376,16 +2313,6 @@ Nien Nunb,Wicket,1
 Nien Nunb,Moff Jerjerrod,1
 Nien Nunb,Wedge Antilles,1
 Nien Nunb,Paploo,1
-Jabba the Hutt,C-3P0,1
-Shuttle Captain,C-3P0,1
-C-3P0,Ewoks,1
-C-3P0,Logray,1
-C-3P0,Red Three,1
-C-3P0,Bespin Guards,1
-C-3P0,Rebel Trooper,1
-C-3P0,Wicket,1
-C-3P0,Moff Jerjerrod,1
-C-3P0,Paploo,1
 Jabba the Hutt,Bail Organa,1
 Shuttle Captain,Bail Organa,1
 Ewoks,Bail Organa,1
