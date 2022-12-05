@@ -18,7 +18,7 @@ const [links,setLinks] = useState({});
 const [selected, setSelected] = useState(null);
 const [generated, setGenerated] = useState(false);
 const [linkMatrix, setLinkMatrix] = useState({});
-
+const [pictures, setPictures] = useState([])
 
 // Update margin once size ref is created
 const margin = {top: 50, right: 20, bottom: 30, left: 30},
@@ -38,14 +38,10 @@ height = 400 - (margin.top+margin.bottom);
 
       let connected = link.filter(g => g.source.id === sel.id || g.target.id === sel.id);
       let connNodes = node.filter(d => linkMatrix[sel.id].includes(d))
-      console.log(connNodes)
-      
-      console.log(connected)
-      console.log(connected._groups.map(d => d.source))
+  
       link.attr("stroke-opacity", d => d.source.id === sel.id || d.target.id === sel.id ? 1 : 0.1);
 
       connected.attr("stroke", "red")
-
       connNodes.attr("opacity", 1)
 
       node.attr("opacity", d => {
@@ -72,29 +68,40 @@ useEffect(() => {
     d3.csv('./occs.csv')
     .then(text  => {
       setLinks(text)
+
+      d3.csv("./pictures.csv")
+      .then(pics => {
+        var pcs = {}
+        pics.forEach(d => {
+          pcs[d.id] = d.link
+        })
+        setPictures(pcs)
+
+
       d3.csv('./characters.csv')
       .then(chars => {
-
-        var matrix = {}
-        chars.forEach(d => {
-          matrix[d.id] = []
-        })
-        text.forEach(d => {
-          if(matrix[d.source.id]) {
-            matrix[d.source.id].push(d.target)
-          }
-          if(matrix[d.target.id]) {
-            matrix[d.target.id].push(d.source)
-          }
-        })
+          var matrix = {}
+          chars.forEach(d => {
+            matrix[d.id] = []
+          })
+          text.forEach(d => {
+            if(matrix[d.source.id]) {
+              matrix[d.source.id].push(d.target)
+            }
+            if(matrix[d.target.id]) {
+              matrix[d.target.id].push(d.source)
+            }
+          })
         setLinkMatrix(matrix)
         setNodes(chars)
-
-
       }).catch(error => {
         console.log(error)
         console.log("Error reading nodes")
-      });
+      })
+    }).catch(error => {
+        console.log(error)
+        console.log("Error reading pictures")
+      })
     }).catch(error => {
       console.log("Error reading links")
     });
@@ -128,6 +135,24 @@ useEffect(() => {
 
     const g = svg.append("g")
     .attr("class", "content");
+
+
+    const defs = svg.append('svg:defs');
+
+    Object.entries(pictures).forEach(d => {
+      defs.append("svg:pattern")
+      .attr("id", (d[0].replace(" ",""))+"img")
+      .attr("width", 64) 
+      .attr("height", 64)
+      .attr("patternUnits", "userSpaceOnUse")
+      .append("svg:image")
+      .attr("xlink:href", d[1])
+      .attr("width", 64)
+      .attr("height", 64)
+      .attr("x", 0)
+      .attr("y", 0);
+  
+    })
 
 
     const zoom = d3.zoom()
@@ -185,28 +210,69 @@ useEffect(() => {
       .attr("stroke-width", function(d) { return (d.total*0.05); });
 
 
+    // var node = g.append("g")
+    // .attr("class", "nodes")
+    // .selectAll("g")
+    // .data(nodes)
+    // .join("g")
+    // .on("click", (e,d) => setSelected(d));
+
+    // node.append("circle")
+    //   .attr("r", d => (d.count / d3.max(nodes, d=>d.count)*10))
+    //   .attr("fill", "rgba(70,130,180,0.8)")
+    //   .attr("stroke", "black")
+    //   .attr("stroke-opacity", 0.6)
+    //   .attr("stroke-width", 0.5)
+    //   .call(d3.drag()
+    //   .on("start", dragstarted)
+    //   .on("drag", dragged)
+    //   .on("end", dragended));
+
     var node = g.append("g")
     .attr("class", "nodes")
     .selectAll("g")
     .data(nodes)
     .join("g")
-    .on("click", (e,d) => setSelected(d));
+    .on("click", (e,d) => setSelected(d))
+    .call(d3.drag()
+    .on("start", dragstarted)
+    .on("drag", dragged)
+    .on("end", dragended));
+
+
+
+    // node.append("image")
+    //   .attr("xlink:href", d => pictures[d.id] ? pictures[d.id] : "https://github.com/favicon.ico")
+    //   .attr("x", -8)
+    //   .attr("y", -8)
+    //   .attr("width", d => (d.count / d3.max(nodes, d=>d.count)*10))
+    //   .attr("height", d =>  (d.count / d3.max(nodes, d=>d.count)*10))
+    //   .attr("stroke", "black")
+    //   .attr("stroke-opacity", 0.6)
+    //   .attr("stroke-width", 0.5);
 
     node.append("circle")
+      // .attr("transform", "translate(" + d.posx + "," + d.posy + ")")
+      //.attr("cx", 64 / 2)
+      //.attr("cy", 64 / 2)
       .attr("r", d => (d.count / d3.max(nodes, d=>d.count)*10))
-      .attr("fill", "rgba(70,130,180,0.8)")
-      .attr("stroke", "black")
-      .attr("stroke-opacity", 0.6)
-      .attr("stroke-width", 0.5)
-      .call(d3.drag()
-      .on("start", dragstarted)
-      .on("drag", dragged)
-      .on("end", dragended));
+      // .style("fill", "#fff")
+      .style("fill", d => pictures[d.id] ? ("url(#" + (d.id.replace(" ",""))+"img)") : "steelblue")
+          //   .attr("r", d => (d.count / d3.max(nodes, d=>d.count)*10))
+    //   .attr("fill", "rgba(70,130,180,0.8)")
+    //   .attr("stroke", "black")
+    //   .attr("stroke-opacity", 0.6)
+    //   .attr("stroke-width", 0.5)
+    //   .call(d3.drag()
+    //   .on("start", dragstarted)
+    //   .on("drag", dragged)
+    //   .on("end", dragended));
+
 
 
     node.append("text")
     .text((d) => d.id)
-        .attr('x', 2)
+        .attr('x', d => (d.count / d3.max(nodes, d=>d.count)*10) + 2)
         .style("cursor", "pointer")
         .style("font-weight", "bold")
         .style("font-size", "0.2em")
