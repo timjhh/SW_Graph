@@ -24,30 +24,30 @@ Battle Droid,Chancellor Valorum,2
 Sache,Tey How,1
 Sache,Queen,5
 Sache,Rune,2
-Sache,Padme,5
+Sache,Padme Amidala,5
 Sache,Nute Gunray,2
 Sache,Eirtae,3
 Sache,Yane,4
 Sache,Rabe,4
 Queen,Tey How,1
-Padme,Tey How,1
+Padme Amidala,Tey How,1
 Eirtae,Tey How,1
 Yane,Tey How,1
 Rabe,Tey How,1
 Queen,Rune,6
-Queen,Padme,31
+Queen,Padme Amidala,38
 Queen,Nute Gunray,7
 Queen,Eirtae,16
 Queen,Yane,4
 Queen,Rabe,13
-Rune,Padme,3
+Rune,Padme Amidala,4
 Rune,Eirtae,1
 Rune,Yane,2
 Rune,Rabe,2
-Padme,Nute Gunray,4
-Padme,Eirtae,14
-Padme,Yane,4
-Padme,Rabe,13
+Padme Amidala,Nute Gunray,9
+Padme Amidala,Eirtae,19
+Padme Amidala,Yane,4
+Padme Amidala,Rabe,14
 Nute Gunray,Eirtae,1
 Nute Gunray,Yane,2
 Nute Gunray,Rabe,2
@@ -59,16 +59,16 @@ Sache,Captain Panaka,4
 Sache,Palpatine,1
 Queen,Sio Bibble,8
 Captain Panaka,Sio Bibble,6
-Padme,Sio Bibble,7
 Palpatine,Sio Bibble,4
 Eirtae,Sio Bibble,4
+Padme Amidala,Sio Bibble,10
 Queen,Captain Panaka,22
 Queen,Palpatine,21
-Captain Panaka,Padme,16
 Captain Panaka,Palpatine,11
 Captain Panaka,Eirtae,15
-Padme,Palpatine,17
+Captain Panaka,Padme Amidala,27
 Palpatine,Eirtae,7
+Padme Amidala,Palpatine,30
 Qui-Gon Jinn,Jar Jar Binks,39
 Obi-Wan Kenobi,Jar Jar Binks,28
 Captain Tarpals,Bespin Guards,1
@@ -89,41 +89,30 @@ Nute Gunray,Palpatine,10
 Battle Droid,Jar Jar Binks,12
 Sache,Bespin Guards,3
 Sache,Battle Droid,3
-Sache,Padme Amidala,2
 Queen,Bespin Guards,14
 Battle Droid,Bespin Guards,7
 Rune,Bespin Guards,3
-Padme,Bespin Guards,12
 Sio Bibble,Bespin Guards,6
 Captain Panaka,Bespin Guards,11
 Nute Gunray,Bespin Guards,7
-Padme Amidala,Bespin Guards,16
+Padme Amidala,Bespin Guards,20
 Yane,Bespin Guards,3
 Bespin Guards,Rabe,8
 Queen,Battle Droid,10
-Queen,Padme Amidala,20
 Rune,Battle Droid,3
-Padme,Battle Droid,6
 Battle Droid,Sio Bibble,4
 Captain Panaka,Battle Droid,13
-Padme Amidala,Battle Droid,27
+Padme Amidala,Battle Droid,29
 Battle Droid,Yane,3
 Battle Droid,Rabe,6
 Rune,Sio Bibble,2
 Rune,Captain Panaka,2
-Rune,Padme Amidala,2
-Padme Amidala,Padme,19
 Nute Gunray,Sio Bibble,3
-Padme Amidala,Sio Bibble,6
 Yane,Sio Bibble,3
 Sio Bibble,Rabe,4
 Captain Panaka,Nute Gunray,3
-Captain Panaka,Padme Amidala,20
 Captain Panaka,Yane,3
 Captain Panaka,Rabe,11
-Padme Amidala,Nute Gunray,7
-Padme Amidala,Yane,2
-Padme Amidala,Rabe,8
 Sache,Qui-Gon Jinn,2
 Sache,Obi-Wan Kenobi,2
 Sache,Jar Jar Binks,2
@@ -131,8 +120,7 @@ Qui-Gon Jinn,Bespin Guards,8
 Captain Panaka,Qui-Gon Jinn,17
 Queen,Qui-Gon Jinn,13
 Qui-Gon Jinn,Sio Bibble,4
-Padme Amidala,Qui-Gon Jinn,32
-Padme,Qui-Gon Jinn,9
+Padme Amidala,Qui-Gon Jinn,34
 Qui-Gon Jinn,Yane,2
 Qui-Gon Jinn,Rabe,7
 Obi-Wan Kenobi,Bespin Guards,14
@@ -141,13 +129,11 @@ Captain Panaka,Jar Jar Binks,14
 Queen,Obi-Wan Kenobi,21
 Queen,Jar Jar Binks,18
 Obi-Wan Kenobi,Sio Bibble,7
-Padme Amidala,Obi-Wan Kenobi,43
-Padme,Obi-Wan Kenobi,18
+Padme Amidala,Obi-Wan Kenobi,50
 Obi-Wan Kenobi,Yane,2
 Obi-Wan Kenobi,Rabe,8
 Jar Jar Binks,Sio Bibble,5
-Padme Amidala,Jar Jar Binks,34
-Padme,Jar Jar Binks,17
+Padme Amidala,Jar Jar Binks,44
 Yane,Jar Jar Binks,2
 Jar Jar Binks,Rabe,6
 Qui-Gon Jinn,Princess Leia,3
@@ -161,8 +147,7 @@ Battle Droid,Princess Leia,2
 Queen Jamillia,Princess Leia,9
 Jar Jar Binks,Princess Leia,4
 Sio Bibble,Princess Leia,3
-Padme Amidala,Princess Leia,6
-Padme,Princess Leia,5
+Padme Amidala,Princess Leia,8
 Palpatine,Princess Leia,6
 Eirtae,Princess Leia,5
 Captain Panaka,Queen Jamillia,4
@@ -175,24 +160,21 @@ Battle Droid,Palpatine,12
 Battle Droid,Eirtae,7
 Jar Jar Binks,Queen Jamillia,4
 Sio Bibble,Queen Jamillia,3
-Padme Amidala,Queen Jamillia,5
-Padme,Queen Jamillia,5
+Padme Amidala,Queen Jamillia,7
 Palpatine,Queen Jamillia,5
 Eirtae,Queen Jamillia,5
 Palpatine,Jar Jar Binks,14
 Eirtae,Jar Jar Binks,10
-Padme Amidala,Palpatine,19
-Padme Amidala,Eirtae,11
 Sache,Republic Captain,1
 Republic Captain,Bespin Guards,3
 Eirtae,Bespin Guards,7
+Captain Panaka,Republic Captain,4
 Queen,Republic Captain,3
 Obi-Wan Kenobi,Republic Captain,6
 Battle Droid,Republic Captain,4
 Republic Captain,Sio Bibble,1
 Republic Captain,Jar Jar Binks,3
-Captain Panaka,Republic Captain,4
-Padme,Republic Captain,2
+Padme Amidala,Republic Captain,4
 Republic Captain,Eirtae,2
 Republic Captain,Yane,1
 Republic Captain,Rabe,2
@@ -217,8 +199,7 @@ Captain Panaka,R2-D2,7
 R2-D2,Obi-Wan Kenobi,50
 R2-D2,Battle Droid,26
 Queen,R2-D2,9
-R2-D2,Padme Amidala,48
-R2-D2,Padme,6
+R2-D2,Padme Amidala,50
 R2-D2,Eirtae,7
 R2-D2,Rabe,4
 R2-D2,Jar Jar Binks,26
@@ -232,7 +213,7 @@ Gardulla,Anakin Skywalker,1
 Watto,Anakin Skywalker,12
 Anakin Skywalker,Jar Jar Binks,28
 Anakin Skywalker,Luke Skywalker,19
-Padme Amidala,Anakin Skywalker,95
+Padme Amidala,Anakin Skywalker,97
 R2-D2,Gardulla,1
 R2-D2,Watto,6
 R2-D2,Luke Skywalker,40
@@ -427,13 +408,12 @@ Palpatine,Jira,1
 Sith Probe Droid,Jira,1
 Palpatine,Sith Probe Droid,1
 Captain Panaka,Anakin Skywalker,12
-Padme Amidala,Republic Captain,3
 Republic Captain,Anakin Skywalker,7
 Ric Olie,Anakin Skywalker,6
 Ric Olie,Padme Amidala,1
 Rebel Pilot,Anakin Skywalker,9
 Rebel Pilot,Obi-Wan Kenobi,8
-Padme Amidala,Rebel Pilot,4
+Padme Amidala,Rebel Pilot,5
 Ric Olie,Watto,1
 Watto,Obi-Wan Kenobi,1
 Anakin Skywalker,Sio Bibble,4
@@ -443,7 +423,6 @@ Anakin Skywalker,Princess Leia,11
 Queen,Anakin Skywalker,16
 Anakin Skywalker,Queen Jamillia,6
 Anakin Skywalker,Chancellor Valorum,2
-Padme,Anakin Skywalker,12
 Eirtae,Anakin Skywalker,9
 Anakin Skywalker,Rabe,6
 Bespin Guards,Princess Leia,5
@@ -455,8 +434,7 @@ Captain Panaka,Chancellor Valorum,3
 Queen,Chancellor Valorum,4
 Chancellor Valorum,Queen Jamillia,1
 Chancellor Valorum,Jar Jar Binks,2
-Padme Amidala,Chancellor Valorum,1
-Padme,Chancellor Valorum,3
+Padme Amidala,Chancellor Valorum,3
 Palpatine,Chancellor Valorum,3
 Eirtae,Chancellor Valorum,2
 Chancellor Valorum,Rabe,2
@@ -464,38 +442,38 @@ Palpatine,Rabe,5
 Yoda,Mace Windu,19
 Qui-Gon Jinn,Mace Windu,3
 Obi-Wan Kenobi,Mace Windu,17
+Captain Panaka,Aks Moe,1
+Captain Panaka,Mas Amedda,1
+Captain Panaka,Bail Organa,2
+Captain Panaka,Lott Dod,1
 Queen,Aks Moe,1
 Queen,Mas Amedda,5
 Queen,Bail Organa,5
 Queen,Lott Dod,1
 Aks Moe,Battle Droid,1
-Aks Moe,Mas Amedda,1
-Aks Moe,Chancellor Valorum,1
-Aks Moe,Bail Organa,1
-Captain Panaka,Aks Moe,1
-Aks Moe,Padme,1
-Aks Moe,Palpatine,1
-Aks Moe,Lott Dod,1
-Aks Moe,Rabe,1
 Battle Droid,Mas Amedda,1
 Battle Droid,Bail Organa,3
 Battle Droid,Lott Dod,1
+Aks Moe,Mas Amedda,1
+Aks Moe,Chancellor Valorum,1
+Aks Moe,Bail Organa,1
+Aks Moe,Padme Amidala,1
+Aks Moe,Palpatine,1
+Aks Moe,Lott Dod,1
+Aks Moe,Rabe,1
 Chancellor Valorum,Mas Amedda,1
 Mas Amedda,Bail Organa,5
-Captain Panaka,Mas Amedda,1
-Padme,Mas Amedda,5
+Padme Amidala,Mas Amedda,6
 Palpatine,Mas Amedda,11
 Lott Dod,Mas Amedda,1
 Mas Amedda,Rabe,1
 Chancellor Valorum,Bail Organa,2
 Chancellor Valorum,Lott Dod,1
-Captain Panaka,Bail Organa,2
-Padme,Bail Organa,4
+Padme Amidala,Bail Organa,12
 Palpatine,Bail Organa,12
 Lott Dod,Bail Organa,1
 Rabe,Bail Organa,1
-Captain Panaka,Lott Dod,1
-Padme,Lott Dod,1
+Padme Amidala,Lott Dod,1
 Palpatine,Lott Dod,1
 Lott Dod,Rabe,1
 Mace Windu,Anakin Skywalker,16
@@ -514,7 +492,6 @@ Stormtrooper,Obi-Wan Kenobi,12
 Stormtrooper,Queen,7
 Stormtrooper,Jar Jar Binks,5
 Stormtrooper,Padme Amidala,11
-Stormtrooper,Padme,3
 Stormtrooper,Palpatine,6
 Stormtrooper,Eirtae,6
 R2-D2,Bespin Guards,8
@@ -539,12 +516,10 @@ Gungan Warrior,Obi-Wan Kenobi,2
 Queen,Gungan Warrior,2
 Queen,Boss Nass,4
 Gungan Warrior,Boss Nass,2
-Gungan Warrior,Padme Amidala,2
-Gungan Warrior,Padme,2
+Gungan Warrior,Padme Amidala,3
 Gungan Warrior,Eirtae,1
 Gungan Warrior,Rabe,1
-Boss Nass,Padme Amidala,2
-Boss Nass,Padme,2
+Boss Nass,Padme Amidala,3
 Boss Nass,Eirtae,2
 Boss Nass,Rabe,1
 Rebel Pilot,Bespin Guards,3
@@ -604,14 +579,12 @@ Yoda,Rune Haako,1
 Captain Panaka,Rune Haako,1
 Queen,Rune Haako,1
 Obi-Wan Kenobi,Rune Haako,2
-Padme,Rune Haako,1
 Padme Amidala,Rune Haako,1
 Nute Gunray,Rune Haako,4
 Palpatine,Rune Haako,2
 Yoda,Bespin Guards,4
 Yoda,Captain Panaka,2
-Yoda,Padme,4
-Yoda,Padme Amidala,7
+Yoda,Padme Amidala,10
 Yoda,Nute Gunray,1
 Yoda,Palpatine,14
 Captain Panaka,Mace Windu,1
@@ -625,14 +598,14 @@ Boss Nass,Palpatine,2
 Gungan Warrior,Sio Bibble,1
 Gungan Warrior,Palpatine,1
 Count Dooku,Queen,4
-Count Dooku,Padme,4
+Count Dooku,Padme Amidala,15
 Dorme,Bespin Guards,3
 Queen,Dorme,4
 R2-D2,Dorme,2
 Captain Typho,Dorme,6
 Rebel Pilot,Dorme,1
 Dorme,Jar Jar Binks,5
-Padme,Dorme,4
+Padme Amidala,Dorme,7
 Dorme,Corde,1
 Captain Typho,Bespin Guards,3
 Corde,Bespin Guards,1
@@ -642,12 +615,11 @@ Captain Typho,R2-D2,4
 R2-D2,Corde,1
 Captain Typho,Rebel Pilot,1
 Captain Typho,Jar Jar Binks,5
-Captain Typho,Padme,5
+Captain Typho,Padme Amidala,11
 Captain Typho,Corde,1
-Padme,Rebel Pilot,1
 Rebel Pilot,Corde,1
 Corde,Jar Jar Binks,1
-Padme,Corde,1
+Padme Amidala,Corde,1
 Darsana,Dorme,1
 Orn Free Taa,Dorme,2
 Dorme,Mas Amedda,2
@@ -661,38 +633,37 @@ Darsana,Mas Amedda,1
 Darsana,Ask Aak,1
 Captain Typho,Darsana,1
 Darsana,Jar Jar Binks,1
-Padme,Darsana,1
+Padme Amidala,Darsana,1
 Darsana,Palpatine,1
 Orn Free Taa,Mas Amedda,3
 Orn Free Taa,Ask Aak,1
 Captain Typho,Orn Free Taa,2
 Orn Free Taa,Jar Jar Binks,3
-Padme,Orn Free Taa,3
+Padme Amidala,Orn Free Taa,3
 Orn Free Taa,Palpatine,3
 Ask Aak,Mas Amedda,2
 Captain Typho,Mas Amedda,3
 Jar Jar Binks,Mas Amedda,5
 Captain Typho,Ask Aak,1
 Jar Jar Binks,Ask Aak,2
-Padme,Ask Aak,2
+Padme Amidala,Ask Aak,2
 Palpatine,Ask Aak,2
 Captain Typho,Palpatine,3
 Mace Windu,Plo Koon,4
 Orn Free Taa,Mace Windu,1
 Count Dooku,Mace Windu,7
 Mace Windu,Bail Organa,3
-Padme,Mace Windu,3
 Dar Wac,Mace Windu,1
 Dorme,Mace Windu,2
 Mace Windu,Bespin Guards,1
 Mace Windu,Mas Amedda,2
 Captain Typho,Mace Windu,2
 Mace Windu,Jar Jar Binks,4
+Padme Amidala,Mace Windu,10
 Yoda,Plo Koon,4
 Orn Free Taa,Plo Koon,1
 Count Dooku,Plo Koon,1
 Bail Organa,Plo Koon,1
-Padme,Plo Koon,2
 Dar Wac,Plo Koon,1
 Dorme,Plo Koon,1
 Bespin Guards,Plo Koon,1
@@ -701,6 +672,7 @@ Obi-Wan Kenobi,Plo Koon,4
 Mas Amedda,Plo Koon,1
 Captain Typho,Plo Koon,1
 Jar Jar Binks,Plo Koon,1
+Padme Amidala,Plo Koon,2
 Palpatine,Plo Koon,2
 Yoda,Orn Free Taa,1
 Yoda,Count Dooku,6
@@ -727,7 +699,6 @@ Dorme,Bail Organa,1
 Bespin Guards,Bail Organa,4
 Obi-Wan Kenobi,Bail Organa,14
 Captain Typho,Bail Organa,2
-Padme,Dar Wac,1
 Dar Wac,Dorme,1
 Dar Wac,Bespin Guards,2
 Queen,Dar Wac,1
@@ -735,15 +706,14 @@ Dar Wac,Obi-Wan Kenobi,1
 Dar Wac,Mas Amedda,1
 Captain Typho,Dar Wac,1
 Dar Wac,Jar Jar Binks,1
+Padme Amidala,Dar Wac,1
 Dar Wac,Palpatine,1
 Obi-Wan Kenobi,Dorme,4
 Mas Amedda,Bespin Guards,3
 Obi-Wan Kenobi,Mas Amedda,3
 Captain Typho,Obi-Wan Kenobi,6
-Dorme,Anakin Skywalker,4
-Padme Amidala,Dorme,4
 Captain Typho,Anakin Skywalker,6
-Captain Typho,Padme Amidala,8
+Dorme,Anakin Skywalker,4
 Captain Typho,Battle Droid,1
 Battle Droid,Dorme,1
 Zam Wessel,Anakin Skywalker,4
@@ -754,7 +724,6 @@ Yoda,Battle Droid,9
 Zam Wessel,Elan Sleazebaggano,1
 Obi-Wan Kenobi,Elan Sleazebaggano,1
 Anakin Skywalker,Elan Sleazebaggano,1
-Padme Amidala,Mace Windu,7
 Obi-Wan Kenobi,Dexter Jettster,1
 Count Dooku,Anakin Skywalker,19
 Nute Gunray,Anakin Skywalker,8
@@ -763,7 +732,6 @@ Nute Gunray,Princess Leia,1
 Count Dooku,Queen Jamillia,1
 Nute Gunray,Queen Jamillia,1
 Count Dooku,Sio Bibble,1
-Count Dooku,Padme Amidala,12
 Count Dooku,Nute Gunray,4
 Count Dooku,Jocasta Nu,1
 Jocasta Nu,Obi-Wan Kenobi,1
@@ -835,7 +803,6 @@ Shmi,Beru Lars,1
 Beru Lars,Tusken Raider,1
 Tusken Raider,Cliegg Lars,1
 Anakin Skywalker,Jawa,1
-Padme,C-3PO,4
 Tusken Raider,Bespin Guards,1
 Darth Vader,Mace Windu,2
 Mace Windu,Ask Aak,1
@@ -849,7 +816,7 @@ Darth Vader,Count Dooku,1
 Darth Vader,Jar Jar Binks,1
 Darth Vader,Bail Organa,2
 Darth Vader,Jango Fett,1
-Darth Vader,Padme,1
+Darth Vader,Padme Amidala,5
 Obi-Wan Kenobi,Ask Aak,1
 Jango Fett,Mas Amedda,1
 Count Dooku,Ask Aak,1
@@ -857,10 +824,8 @@ Ask Aak,Bail Organa,1
 Jango Fett,Ask Aak,1
 Jango Fett,Jar Jar Binks,1
 Jango Fett,Bail Organa,1
-Padme,Jango Fett,1
+Padme Amidala,Jango Fett,5
 Palpatine,Jango Fett,2
-Owen Lars,Padme,1
-Padme,Beru Lars,1
 Count Dooku,C-3PO,4
 Count Dooku,R2-D2,5
 Obi-Wan Kenobi,C-3PO,20
@@ -873,12 +838,10 @@ Count Dooku,Geonosian,5
 Geonosian,Anakin Skywalker,6
 Geonosian,Queen,1
 Geonosian,Padme Amidala,6
-Geonosian,Padme,1
 Anakin Skywalker,Jango Fett,4
 Boba Fett,Anakin Skywalker,8
 Jango Fett,Bespin Guards,1
 Boba Fett,Bespin Guards,2
-Padme Amidala,Jango Fett,4
 Boba Fett,Padme Amidala,5
 Boba Fett,Palpatine,2
 Poggle the Lesser,Passel Argente,1
@@ -1062,7 +1025,6 @@ General Grievous,Bail Organa,1
 R2-D2,Bail Organa,6
 C-3PO,Bail Organa,6
 Palpatine,C-3PO,3
-Padme Amidala,Bail Organa,8
 Master Vos,Obi-Wan Kenobi,1
 Master Vos,Anakin Skywalker,1
 Fang Zar,Queen,2
@@ -1158,20 +1120,17 @@ Stormtrooper,Bodyguard,1
 Stormtrooper,Clone Troopers,4
 Clone Troopers,General Grievous,3
 Clone Troopers,Bodyguard,1
-Fang Zar,Anakin Skywalker,1
 Sweitt Concorkill,Anakin Skywalker,1
-Anakin Skywalker,Maledee,1
 Fang Zar,Sweitt Concorkill,1
-Fang Zar,Padme,1
-Fang Zar,Maledee,1
 Queen,Sweitt Concorkill,1
-Queen,Maledee,1
 Padme Amidala,Sweitt Concorkill,1
-Padme,Sweitt Concorkill,1
 Palpatine,Sweitt Concorkill,1
 Sweitt Concorkill,Maledee,1
+Fang Zar,Anakin Skywalker,1
+Anakin Skywalker,Maledee,1
+Fang Zar,Maledee,1
+Queen,Maledee,1
 Padme Amidala,Maledee,1
-Padme,Maledee,1
 Palpatine,Maledee,1
 Aayla Secura,Mace Windu,1
 Aayla Secura,Anakin Skywalker,1
@@ -1188,7 +1147,6 @@ Agen Kolar,Kit Fisto,1
 Darth Vader,Anakin Skywalker,13
 Darth Vader,General Grievous,2
 Padme Amidala,General Grievous,2
-Darth Vader,Padme Amidala,4
 Clone Commander Cody,Stormtrooper,1
 Clone Commander Cody,Battle Droid,1
 Clone Commander Cody,Palpatine,1
@@ -1236,7 +1194,6 @@ Captain Typho,C-3PO,2
 Rebel Pilot,Bail Organa,2
 Yoda,Rebel Pilot,2
 Rebel Pilot,Mas Amedda,1
-Padme Amidala,Mas Amedda,1
 Anakin Skywalker,Rune Haako,2
 Battle Droid,Rune Haako,2
 Battle Droid,Wat Tambor,2

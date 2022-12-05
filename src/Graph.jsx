@@ -140,15 +140,17 @@ useEffect(() => {
     const defs = svg.append('svg:defs');
 
     Object.entries(pictures).forEach(d => {
+
+      let dim = (nodes.find(z => z.id === d[0]).count / d3.max(nodes, f=>f.count));
+
       defs.append("svg:pattern")
       .attr("id", (d[0].replace(" ",""))+"img")
-      .attr("width", 64) 
-      .attr("height", 64)
-      .attr("patternUnits", "userSpaceOnUse")
+      .attr("width", 1) 
+      .attr("height", 1)
       .append("svg:image")
       .attr("xlink:href", d[1])
-      .attr("width", 64)
-      .attr("height", 64)
+      .attr("width", dim*20) 
+      .attr("height", dim*20)
       .attr("x", 0)
       .attr("y", 0);
   
@@ -167,36 +169,10 @@ useEffect(() => {
 
     const simulation = d3.forceSimulation()
     .force("charge", d3.forceManyBody())
-   // .force("repel", d3.forceManyBody())
+    .force("repel", d3.forceManyBody())
     .force("center", d3.forceCenter(width/2,height/2))
-   // .force("collision", d3.forceCollide(1))
+    //.force("collision", d3.forceCollide(2))
     .force("link", d3.forceLink().id(d => d.id))
-
-    const legendX = parseFloat(margin.left/2);
-    const legendY = parseFloat(margin.top/2);
-    const legend = svg.append("g")
-    .attr("class", "legend");
-
-    legend.selectAll("path")
-    .data(legendLabels)
-    .join("circle")
-      // Manually add offset based on index of year
-      // Oh boy is this some spaghetti
-      // Note - 20 is the offset in this case, as each index is multiplied by 20
-      .attr("transform", (d,idx) => "translate(" + parseFloat(legendX-5) + "," + parseFloat((legendY-2) + (idx * 10)) + ")")
-      .attr("r", 2)
-      .attr("fill", (d,idx) => d === "OTC" ? "red" : "rgba(70,130,180,0.8)");
-
-    // Add legend text
-    legend.selectAll("text")
-    .data(legendLabels)
-    .join("text")
-      .text(d => d)
-      .attr("font-size", "0.5em")
-      .attr("font-weight", "lighter")
-      .attr("x", legendX)
-      // Manually added text offset - see above comment
-      .attr("y", (d,idx) => parseFloat((legendY) + (idx * 10)));
 
 
     var link = g.append("g")
@@ -209,25 +185,6 @@ useEffect(() => {
       .attr("stroke-opacity", linkOpacity)
       .attr("stroke-width", function(d) { return (d.total*0.05); });
 
-
-    // var node = g.append("g")
-    // .attr("class", "nodes")
-    // .selectAll("g")
-    // .data(nodes)
-    // .join("g")
-    // .on("click", (e,d) => setSelected(d));
-
-    // node.append("circle")
-    //   .attr("r", d => (d.count / d3.max(nodes, d=>d.count)*10))
-    //   .attr("fill", "rgba(70,130,180,0.8)")
-    //   .attr("stroke", "black")
-    //   .attr("stroke-opacity", 0.6)
-    //   .attr("stroke-width", 0.5)
-    //   .call(d3.drag()
-    //   .on("start", dragstarted)
-    //   .on("drag", dragged)
-    //   .on("end", dragended));
-
     var node = g.append("g")
     .attr("class", "nodes")
     .selectAll("g")
@@ -239,37 +196,13 @@ useEffect(() => {
     .on("drag", dragged)
     .on("end", dragended));
 
-
-
-    // node.append("image")
-    //   .attr("xlink:href", d => pictures[d.id] ? pictures[d.id] : "https://github.com/favicon.ico")
-    //   .attr("x", -8)
-    //   .attr("y", -8)
-    //   .attr("width", d => (d.count / d3.max(nodes, d=>d.count)*10))
-    //   .attr("height", d =>  (d.count / d3.max(nodes, d=>d.count)*10))
-    //   .attr("stroke", "black")
-    //   .attr("stroke-opacity", 0.6)
-    //   .attr("stroke-width", 0.5);
-
     node.append("circle")
-      // .attr("transform", "translate(" + d.posx + "," + d.posy + ")")
-      //.attr("cx", 64 / 2)
-      //.attr("cy", 64 / 2)
       .attr("r", d => (d.count / d3.max(nodes, d=>d.count)*10))
-      // .style("fill", "#fff")
       .style("fill", d => pictures[d.id] ? ("url(#" + (d.id.replace(" ",""))+"img)") : "steelblue")
-          //   .attr("r", d => (d.count / d3.max(nodes, d=>d.count)*10))
-    //   .attr("fill", "rgba(70,130,180,0.8)")
-    //   .attr("stroke", "black")
-    //   .attr("stroke-opacity", 0.6)
-    //   .attr("stroke-width", 0.5)
-    //   .call(d3.drag()
-    //   .on("start", dragstarted)
-    //   .on("drag", dragged)
-    //   .on("end", dragended));
-
-
-
+      .attr("stroke", "black")
+      .attr("stroke-opacity", 0.6)
+      .attr("stroke-width", 0.5);
+      
     node.append("text")
     .text((d) => d.id)
         .attr('x', d => (d.count / d3.max(nodes, d=>d.count)*10) + 2)
